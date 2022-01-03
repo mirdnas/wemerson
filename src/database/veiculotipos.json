@@ -1,0 +1,46 @@
+{
+  "RECORDS": [
+    {
+      "id": "1",
+      "tipoVeiculoDesc": "02 PICK-UP E UTILITÁRIOS",
+      "created_at": "18/8/2020 09:16:14",
+      "updated_at": "17/11/2021 11:20:30"
+    },
+    {
+      "id": "2",
+      "tipoVeiculoDesc": "01 CAMINHÕES",
+      "created_at": "18/8/2020 09:16:14",
+      "updated_at": "28/10/2021 14:08:19"
+    },
+    {
+      "id": "4",
+      "tipoVeiculoDesc": "06 TRUCKS E CARRETAS",
+      "created_at": "18/8/2020 09:16:14",
+      "updated_at": "17/11/2021 11:21:04"
+    },
+    {
+      "id": "5",
+      "tipoVeiculoDesc": "03 ÔNIBUS, MICRO-ÔNIBUS E VANS",
+      "created_at": "18/8/2020 09:16:14",
+      "updated_at": "17/11/2021 11:20:45"
+    },
+    {
+      "id": "6",
+      "tipoVeiculoDesc": "04 REBOQUES",
+      "created_at": "18/8/2020 09:16:14",
+      "updated_at": "17/11/2021 11:20:51"
+    },
+    {
+      "id": "7",
+      "tipoVeiculoDesc": "TRUCK",
+      "created_at": "18/8/2020 09:16:14",
+      "updated_at": "5/8/2021 14:14:16"
+    },
+    {
+      "id": "8",
+      "tipoVeiculoDesc": "05 IMPLEMENTOS AGRÍCOLAS",
+      "created_at": "31/8/2021 14:57:34",
+      "updated_at": "17/11/2021 11:20:58"
+    }
+  ]
+}

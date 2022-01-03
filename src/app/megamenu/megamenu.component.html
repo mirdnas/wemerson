@@ -1,0 +1,12 @@
+<div>
+  <ul class="megamenu">
+    <li *ngFor="let marca of marcas, index as i;">
+      <a href="javascript:void(0)" (mouseenter)="showHideMegaMenu()" > {{ marca.marcaDesc }} </a>
+      <ul class="megamenu__child" [ngClass]="{open: statusMegaMenu, closed: !statusMegaMenu}">
+        <li *ngFor="let modelo of modelosMarcas(marca.id), index as i;">
+          <a href="javascript:void(0)"> {{modelo.modeloDesc}} {{modelo.id}} {{modelo.marcaId}} </a>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</div>

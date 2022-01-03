@@ -1,0 +1,4884 @@
+{
+  "RECORDS": [
+    {
+      "id": "9",
+      "marcaId": "1",
+      "modeloDesc": "VOLARE A8 - ANO 97/99",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "28/10/2021 14:41:37"
+    },
+    {
+      "id": "10",
+      "marcaId": "1",
+      "modeloDesc": "VOLARE A8 - ANO 2001...",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "28/10/2021 14:41:33"
+    },
+    {
+      "id": "15",
+      "marcaId": "1",
+      "modeloDesc": "VOLARE A8 SENIOR - ANO 2004...",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "28/10/2021 14:41:43"
+    },
+    {
+      "id": "16",
+      "marcaId": "1",
+      "modeloDesc": "VOLARE V8 L - ANO 2008...",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "28/10/2021 14:41:52"
+    },
+    {
+      "id": "17",
+      "marcaId": "1",
+      "modeloDesc": "VOLARE A6 E V6 - ANO 97/05",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "28/10/2021 14:49:22"
+    },
+    {
+      "id": "23",
+      "marcaId": "1",
+      "modeloDesc": "1800-D MICRO-ÔNIBUS, 5010 - ANO 88/90 ",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "28/10/2021 14:46:45"
+    },
+    {
+      "id": "25",
+      "marcaId": "2",
+      "modeloDesc": "CANAVIEIRA",
+      "veiculoTipoId": "4",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "26",
+      "marcaId": "2",
+      "modeloDesc": "CERAMA",
+      "veiculoTipoId": "4",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "27",
+      "marcaId": "2",
+      "modeloDesc": "COLON",
+      "veiculoTipoId": "4",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "28",
+      "marcaId": "2",
+      "modeloDesc": "FRUEHAUF",
+      "veiculoTipoId": "4",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "29",
+      "marcaId": "2",
+      "modeloDesc": "GUERRA",
+      "veiculoTipoId": "4",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "30",
+      "marcaId": "2",
+      "modeloDesc": "IMPERIAL",
+      "veiculoTipoId": "4",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "31",
+      "marcaId": "2",
+      "modeloDesc": "KRONE",
+      "veiculoTipoId": "4",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "32",
+      "marcaId": "2",
+      "modeloDesc": "LIBRELATO",
+      "veiculoTipoId": "4",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "33",
+      "marcaId": "2",
+      "modeloDesc": "NOMA",
+      "veiculoTipoId": "4",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "34",
+      "marcaId": "2",
+      "modeloDesc": "RANDON",
+      "veiculoTipoId": "4",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "35",
+      "marcaId": "2",
+      "modeloDesc": "SCHIFFER",
+      "veiculoTipoId": "4",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "36",
+      "marcaId": "2",
+      "modeloDesc": "TREM",
+      "veiculoTipoId": "4",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "37",
+      "marcaId": "2",
+      "modeloDesc": "TROLLER",
+      "veiculoTipoId": "4",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "38",
+      "marcaId": "2",
+      "modeloDesc": "MEXICANA",
+      "veiculoTipoId": "4",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "39",
+      "marcaId": "2",
+      "modeloDesc": "IDEROL",
+      "veiculoTipoId": "4",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "40",
+      "marcaId": "3",
+      "modeloDesc": "ASA BRANCA 6 TON",
+      "veiculoTipoId": "6",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "11/6/2021 08:27:19"
+    },
+    {
+      "id": "41",
+      "marcaId": "3",
+      "modeloDesc": "CEMAG 6 TON",
+      "veiculoTipoId": "6",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "42",
+      "marcaId": "3",
+      "modeloDesc": "ASA BRANCA 4 TON",
+      "veiculoTipoId": "6",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "11/6/2021 08:27:08"
+    },
+    {
+      "id": "43",
+      "marcaId": "3",
+      "modeloDesc": "CEMAG 4 TON",
+      "veiculoTipoId": "6",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "44",
+      "marcaId": "3",
+      "modeloDesc": "CEMAG 4 TON MODERNA",
+      "veiculoTipoId": "6",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "45",
+      "marcaId": "3",
+      "modeloDesc": "CEMAG 6 TON MODERNA",
+      "veiculoTipoId": "6",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "182",
+      "marcaId": "7",
+      "modeloDesc": "D 400",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "183",
+      "marcaId": "7",
+      "modeloDesc": "P 400",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "184",
+      "marcaId": "7",
+      "modeloDesc": "D 900",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "185",
+      "marcaId": "7",
+      "modeloDesc": "P 900",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "186",
+      "marcaId": "7",
+      "modeloDesc": "D 950",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "187",
+      "marcaId": "7",
+      "modeloDesc": "P 950",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "188",
+      "marcaId": "7",
+      "modeloDesc": "DAKOTA - ANO 2000",
+      "veiculoTipoId": "1",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "17/6/2021 14:10:34"
+    },
+    {
+      "id": "189",
+      "marcaId": "8",
+      "modeloDesc": "12.170 - ANO 1997",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "17/6/2021 14:15:03"
+    },
+    {
+      "id": "190",
+      "marcaId": "8",
+      "modeloDesc": "14.170 - ANO 99/01",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "17/6/2021 14:17:31"
+    },
+    {
+      "id": "191",
+      "marcaId": "8",
+      "modeloDesc": "14.190 - ANO 99/01",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "17/6/2021 14:17:41"
+    },
+    {
+      "id": "192",
+      "marcaId": "8",
+      "modeloDesc": "16.220 - ANO 97/99",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "17/6/2021 14:20:01"
+    },
+    {
+      "id": "193",
+      "marcaId": "8",
+      "modeloDesc": "7.110 - ANO 1997",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "17/6/2021 14:13:33"
+    },
+    {
+      "id": "194",
+      "marcaId": "8",
+      "modeloDesc": "15.190 - ANO 1997...",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "17/6/2021 14:19:25"
+    },
+    {
+      "id": "195",
+      "marcaId": "9",
+      "modeloDesc": "HASTE AGRICOLA ORIGINAL",
+      "veiculoTipoId": "8",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "10/11/2021 10:43:40"
+    },
+    {
+      "id": "196",
+      "marcaId": "9",
+      "modeloDesc": "BICAO AGRICOLA LEVE",
+      "veiculoTipoId": "8",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "10/11/2021 10:43:56"
+    },
+    {
+      "id": "224",
+      "marcaId": "11",
+      "modeloDesc": "4.700 - ANO 1997",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "17/6/2021 14:22:32"
+    },
+    {
+      "id": "225",
+      "marcaId": "11",
+      "modeloDesc": "4.900 - ANO 1997",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "17/6/2021 14:22:40"
+    },
+    {
+      "id": "226",
+      "marcaId": "11",
+      "modeloDesc": "9.800",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "356",
+      "marcaId": "13",
+      "modeloDesc": "110",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "357",
+      "marcaId": "13",
+      "modeloDesc": "111",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "358",
+      "marcaId": "13",
+      "modeloDesc": "L 75",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "359",
+      "marcaId": "13",
+      "modeloDesc": "112",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "360",
+      "marcaId": "13",
+      "modeloDesc": "142",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "361",
+      "marcaId": "13",
+      "modeloDesc": "113",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "362",
+      "marcaId": "13",
+      "modeloDesc": "114",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "363",
+      "marcaId": "13",
+      "modeloDesc": "P-124",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "364",
+      "marcaId": "13",
+      "modeloDesc": "260",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "365",
+      "marcaId": "13",
+      "modeloDesc": "320",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "366",
+      "marcaId": "13",
+      "modeloDesc": "360",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "367",
+      "marcaId": "13",
+      "modeloDesc": "420",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "368",
+      "marcaId": "13",
+      "modeloDesc": "112 ÔNIBUS",
+      "veiculoTipoId": "5",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "369",
+      "marcaId": "13",
+      "modeloDesc": "140",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "370",
+      "marcaId": "13",
+      "modeloDesc": "143",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "371",
+      "marcaId": "13",
+      "modeloDesc": "P-94",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "372",
+      "marcaId": "13",
+      "modeloDesc": "122",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "376",
+      "marcaId": "14",
+      "modeloDesc": "HILUX SRV - ANO 2005/2015",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "2/12/2021 14:04:18"
+    },
+    {
+      "id": "383",
+      "marcaId": "14",
+      "modeloDesc": "HILUX SRV - ANO 2017...",
+      "veiculoTipoId": "1",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "17/6/2021 14:31:01"
+    },
+    {
+      "id": "384",
+      "marcaId": "15",
+      "modeloDesc": "RODOVIÁRIO",
+      "veiculoTipoId": "7",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "387",
+      "marcaId": "15",
+      "modeloDesc": "RANDON",
+      "veiculoTipoId": "7",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "390",
+      "marcaId": "15",
+      "modeloDesc": "TRAÇÃO",
+      "veiculoTipoId": "7",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "391",
+      "marcaId": "15",
+      "modeloDesc": "IVECO",
+      "veiculoTipoId": "7",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "392",
+      "marcaId": "15",
+      "modeloDesc": "CARGO",
+      "veiculoTipoId": "7",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "399",
+      "marcaId": "15",
+      "modeloDesc": "VM 23",
+      "veiculoTipoId": "7",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "400",
+      "marcaId": "15",
+      "modeloDesc": "IDEROL",
+      "veiculoTipoId": "7",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "402",
+      "marcaId": "15",
+      "modeloDesc": "MARINGA",
+      "veiculoTipoId": "7",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "403",
+      "marcaId": "15",
+      "modeloDesc": "GUERRA",
+      "veiculoTipoId": "7",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "404",
+      "marcaId": "15",
+      "modeloDesc": "SUSPENSYS",
+      "veiculoTipoId": "7",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "405",
+      "marcaId": "15",
+      "modeloDesc": "MERCEDES BENZ",
+      "veiculoTipoId": "7",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "406",
+      "marcaId": "15",
+      "modeloDesc": "SCANIA",
+      "veiculoTipoId": "7",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "407",
+      "marcaId": "15",
+      "modeloDesc": "VOLVO",
+      "veiculoTipoId": "7",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "408",
+      "marcaId": "15",
+      "modeloDesc": "IMPERIAL",
+      "veiculoTipoId": "7",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "409",
+      "marcaId": "15",
+      "modeloDesc": "FACCHINI",
+      "veiculoTipoId": "7",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "410",
+      "marcaId": "15",
+      "modeloDesc": "SCCHIFER",
+      "veiculoTipoId": "7",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "411",
+      "marcaId": "15",
+      "modeloDesc": "UNIVERSAL",
+      "veiculoTipoId": "7",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "412",
+      "marcaId": "15",
+      "modeloDesc": "NOMA",
+      "veiculoTipoId": "7",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "413",
+      "marcaId": "15",
+      "modeloDesc": "HELIO",
+      "veiculoTipoId": "7",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "414",
+      "marcaId": "15",
+      "modeloDesc": "VOLKSWAGEN",
+      "veiculoTipoId": "7",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "417",
+      "marcaId": "15",
+      "modeloDesc": "AGRALE",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "419",
+      "marcaId": "15",
+      "modeloDesc": "FORD",
+      "veiculoTipoId": "7",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "526",
+      "marcaId": "18",
+      "modeloDesc": "JEEP",
+      "veiculoTipoId": "1",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "527",
+      "marcaId": "18",
+      "modeloDesc": "PICK-UP",
+      "veiculoTipoId": "1",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "528",
+      "marcaId": "18",
+      "modeloDesc": "F75",
+      "veiculoTipoId": "1",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "529",
+      "marcaId": "18",
+      "modeloDesc": "RURAL",
+      "veiculoTipoId": "1",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "530",
+      "marcaId": "19",
+      "modeloDesc": "MOLA LISA C/ FURO",
+      "veiculoTipoId": "7",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "531",
+      "marcaId": "20",
+      "modeloDesc": "MOLA LISA S/ FURO",
+      "veiculoTipoId": "7",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "561",
+      "marcaId": "22",
+      "modeloDesc": "TOPIC 2.2 - ANO 11/13",
+      "veiculoTipoId": "1",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "10/5/2021 08:38:10"
+    },
+    {
+      "id": "562",
+      "marcaId": "22",
+      "modeloDesc": "TOPIC 2.7 - ANO 91/97",
+      "veiculoTipoId": "1",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "17/6/2021 14:08:27"
+    },
+    {
+      "id": "563",
+      "marcaId": "22",
+      "modeloDesc": "TOWNER - ANO 91/99",
+      "veiculoTipoId": "1",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "17/6/2021 14:08:34"
+    },
+    {
+      "id": "564",
+      "marcaId": "23",
+      "modeloDesc": "CHEROKEE - ANO 2001",
+      "veiculoTipoId": "1",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "17/6/2021 14:09:19"
+    },
+    {
+      "id": "565",
+      "marcaId": "24",
+      "modeloDesc": "H-100 - ANO 1997",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "17/6/2021 14:20:47"
+    },
+    {
+      "id": "566",
+      "marcaId": "24",
+      "modeloDesc": "GS-100 - ANO 1997",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "17/6/2021 14:20:52"
+    },
+    {
+      "id": "567",
+      "marcaId": "24",
+      "modeloDesc": "LX-100 - ANO 1997",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "17/6/2021 14:20:56"
+    },
+    {
+      "id": "568",
+      "marcaId": "24",
+      "modeloDesc": "HR 2.5 - ANO 2005...",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "17/6/2021 14:21:14"
+    },
+    {
+      "id": "569",
+      "marcaId": "25",
+      "modeloDesc": "BESTA 2.7 - ANO 1990...",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "13/9/2021 11:36:25"
+    },
+    {
+      "id": "570",
+      "marcaId": "25",
+      "modeloDesc": "BESTA 2.2 - ANO 1990...",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "13/9/2021 11:36:41"
+    },
+    {
+      "id": "571",
+      "marcaId": "25",
+      "modeloDesc": "GRAN BESTA 3.0 - ANO 2000",
+      "veiculoTipoId": "1",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "17/6/2021 14:24:14"
+    },
+    {
+      "id": "572",
+      "marcaId": "25",
+      "modeloDesc": "K-2.500 BONGO - ANO 2005...",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "17/6/2021 14:24:26"
+    },
+    {
+      "id": "573",
+      "marcaId": "26",
+      "modeloDesc": "MAZDA 2.500",
+      "veiculoTipoId": "1",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "576",
+      "marcaId": "27",
+      "modeloDesc": "L-200 4X4 - GLX - ANO 2001",
+      "veiculoTipoId": "1",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "5/8/2021 20:05:50"
+    },
+    {
+      "id": "578",
+      "marcaId": "27",
+      "modeloDesc": "L-200 4X2 - ANO 2000...",
+      "veiculoTipoId": "1",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "25/8/2021 14:58:35"
+    },
+    {
+      "id": "579",
+      "marcaId": "27",
+      "modeloDesc": "L-200 4X4 HPE E OUTDOOR - ANO 2005",
+      "veiculoTipoId": "1",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "25/8/2021 14:55:58"
+    },
+    {
+      "id": "581",
+      "marcaId": "27",
+      "modeloDesc": "L-200 - ANO 2018...",
+      "veiculoTipoId": "1",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "17/6/2021 14:26:37"
+    },
+    {
+      "id": "582",
+      "marcaId": "27",
+      "modeloDesc": "L-200 TRITON - ANO 2008...",
+      "veiculoTipoId": "1",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "17/6/2021 14:26:00"
+    },
+    {
+      "id": "583",
+      "marcaId": "27",
+      "modeloDesc": "L-300",
+      "veiculoTipoId": "1",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "584",
+      "marcaId": "27",
+      "modeloDesc": "PAJERO",
+      "veiculoTipoId": "1",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "585",
+      "marcaId": "28",
+      "modeloDesc": "FRONTIER",
+      "veiculoTipoId": "1",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "586",
+      "marcaId": "28",
+      "modeloDesc": "4X4 - ANO 02/07",
+      "veiculoTipoId": "1",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "17/6/2021 14:27:36"
+    },
+    {
+      "id": "587",
+      "marcaId": "28",
+      "modeloDesc": "FRONTIER 2.5 - ANO 2008...",
+      "veiculoTipoId": "1",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "17/6/2021 14:27:55"
+    },
+    {
+      "id": "588",
+      "marcaId": "28",
+      "modeloDesc": "FRONTIER SE 2.8 - ANO 2008...",
+      "veiculoTipoId": "1",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "17/6/2021 14:28:06"
+    },
+    {
+      "id": "589",
+      "marcaId": "29",
+      "modeloDesc": "JEEP",
+      "veiculoTipoId": "1",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "590",
+      "marcaId": "29",
+      "modeloDesc": "FEROZA",
+      "veiculoTipoId": "1",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "593",
+      "marcaId": "43",
+      "modeloDesc": "RENAULT MASTER",
+      "veiculoTipoId": "1",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "594",
+      "marcaId": "30",
+      "modeloDesc": "SEMI-REBOQUE",
+      "veiculoTipoId": "4",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "595",
+      "marcaId": "31",
+      "modeloDesc": "SEMI-REBOQUE",
+      "veiculoTipoId": "4",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "596",
+      "marcaId": "32",
+      "modeloDesc": "SEMI-REBOQUE",
+      "veiculoTipoId": "4",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "597",
+      "marcaId": "33",
+      "modeloDesc": "SEMI-REBOQUE",
+      "veiculoTipoId": "4",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "598",
+      "marcaId": "34",
+      "modeloDesc": "SEMI-REBOQUE",
+      "veiculoTipoId": "4",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "599",
+      "marcaId": "34",
+      "modeloDesc": "CAVALO MECANICO",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "600",
+      "marcaId": "34",
+      "modeloDesc": "MB 1935",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "601",
+      "marcaId": "34",
+      "modeloDesc": "MB 1941",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "602",
+      "marcaId": "35",
+      "modeloDesc": "SEMI-REBOQUE",
+      "veiculoTipoId": "4",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "603",
+      "marcaId": "36",
+      "modeloDesc": "SEMI-REBOQUE",
+      "veiculoTipoId": "2",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "604",
+      "marcaId": "37",
+      "modeloDesc": "SEMI-REBOQUE",
+      "veiculoTipoId": "4",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "605",
+      "marcaId": "38",
+      "modeloDesc": "SEMI-REBOQUE",
+      "veiculoTipoId": "4",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "606",
+      "marcaId": "44",
+      "modeloDesc": "SEMI-REBOQUE",
+      "veiculoTipoId": "4",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "607",
+      "marcaId": "39",
+      "modeloDesc": "SEMI-REBOQUE",
+      "veiculoTipoId": "4",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "608",
+      "marcaId": "40",
+      "modeloDesc": "SEMI-REBOQUE",
+      "veiculoTipoId": "4",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "609",
+      "marcaId": "41",
+      "modeloDesc": "SEMI-REBOQUE",
+      "veiculoTipoId": "4",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "610",
+      "marcaId": "42",
+      "modeloDesc": "CARRO PASSAGEIRO PIDNER",
+      "veiculoTipoId": "1",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "611",
+      "marcaId": "42",
+      "modeloDesc": "PICK-UP",
+      "veiculoTipoId": "1",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "612",
+      "marcaId": "42",
+      "modeloDesc": "F-75",
+      "veiculoTipoId": "1",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "613",
+      "marcaId": "42",
+      "modeloDesc": "CARGO",
+      "veiculoTipoId": "1",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "614",
+      "marcaId": "42",
+      "modeloDesc": "TROLLER",
+      "veiculoTipoId": "1",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "615",
+      "marcaId": "44",
+      "modeloDesc": "TRUCK ",
+      "veiculoTipoId": "7",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "616",
+      "marcaId": "44",
+      "modeloDesc": "MODERNO",
+      "veiculoTipoId": "4",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "617",
+      "marcaId": "37",
+      "modeloDesc": "L-1313",
+      "veiculoTipoId": "7",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "618",
+      "marcaId": "37",
+      "modeloDesc": "TRUCK",
+      "veiculoTipoId": "7",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "619",
+      "marcaId": "45",
+      "modeloDesc": "TRUCK",
+      "veiculoTipoId": "7",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "620",
+      "marcaId": "45",
+      "modeloDesc": "L-1313",
+      "veiculoTipoId": "7",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "621",
+      "marcaId": "45",
+      "modeloDesc": "L-1513",
+      "veiculoTipoId": "7",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "622",
+      "marcaId": "34",
+      "modeloDesc": "1113",
+      "veiculoTipoId": "7",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "623",
+      "marcaId": "34",
+      "modeloDesc": "TRUCK",
+      "veiculoTipoId": "7",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "624",
+      "marcaId": "46",
+      "modeloDesc": "TRUCK",
+      "veiculoTipoId": "4",
+      "anoI": "",
+      "anoF": "",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "1/1/2020 00:00:00"
+    },
+    {
+      "id": "656",
+      "marcaId": "1",
+      "modeloDesc": "1200 E 1600 - ANO 80/86",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "18/8/2020 09:16:11",
+      "updated_at": "25/9/2021 14:24:28"
+    },
+    {
+      "id": "665",
+      "marcaId": "4",
+      "modeloDesc": "D-10 E D-20 ANTIGA - ANO 80/85",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "30/8/2021 15:16:27",
+      "updated_at": "2/12/2021 23:03:45"
+    },
+    {
+      "id": "666",
+      "marcaId": "4",
+      "modeloDesc": "C-10 E C-14 - ANO 64/79",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "30/8/2021 15:17:17",
+      "updated_at": "30/8/2021 15:17:17"
+    },
+    {
+      "id": "667",
+      "marcaId": "4",
+      "modeloDesc": "S-10 ANTIGA - ANO 1995",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "30/8/2021 15:17:45",
+      "updated_at": "2/12/2021 23:03:07"
+    },
+    {
+      "id": "668",
+      "marcaId": "4",
+      "modeloDesc": "S-10 2.8 4 X 4 DIESEL/GASOLINA - ANO 2012...",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "30/8/2021 15:18:35",
+      "updated_at": "30/8/2021 15:20:09"
+    },
+    {
+      "id": "669",
+      "marcaId": "4",
+      "modeloDesc": "S-10 2.8 4 X 4 DIESEL - ANO 2015...",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "30/8/2021 15:23:36",
+      "updated_at": "30/8/2021 15:23:36"
+    },
+    {
+      "id": "670",
+      "marcaId": "4",
+      "modeloDesc": "D-20 INTERMEDIÁRIA - ANO 91/92",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "30/8/2021 15:24:11",
+      "updated_at": "30/8/2021 15:24:11"
+    },
+    {
+      "id": "671",
+      "marcaId": "4",
+      "modeloDesc": "D-20 MODERNA - ANO 1993...",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "30/8/2021 15:24:37",
+      "updated_at": "2/12/2021 23:03:53"
+    },
+    {
+      "id": "673",
+      "marcaId": "4",
+      "modeloDesc": "BLAZER - ANO 1999",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "30/8/2021 15:29:07",
+      "updated_at": "30/8/2021 15:29:07"
+    },
+    {
+      "id": "674",
+      "marcaId": "4",
+      "modeloDesc": "PICK-UP CORSA GL",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "30/8/2021 15:29:33",
+      "updated_at": "30/8/2021 15:29:33"
+    },
+    {
+      "id": "675",
+      "marcaId": "4",
+      "modeloDesc": "D-40 - ANO 1985...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "30/8/2021 15:30:27",
+      "updated_at": "21/9/2021 14:24:35"
+    },
+    {
+      "id": "677",
+      "marcaId": "4",
+      "modeloDesc": "C-60 BRASIL (ANTIGO) - ANO 57/71",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "30/8/2021 15:40:25",
+      "updated_at": "23/9/2021 17:15:46"
+    },
+    {
+      "id": "679",
+      "marcaId": "4",
+      "modeloDesc": "C-60, D-60 E D-70 (FEIXE CURTO) - ANO 72/84",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "30/8/2021 15:43:24",
+      "updated_at": "23/9/2021 17:11:55"
+    },
+    {
+      "id": "681",
+      "marcaId": "4",
+      "modeloDesc": "C-60, D-60 E D-70 (DETROIT FEIXE LONGO) - ANO 76/84",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "30/8/2021 15:46:15",
+      "updated_at": "23/9/2021 17:16:09"
+    },
+    {
+      "id": "683",
+      "marcaId": "4",
+      "modeloDesc": "D-11.000 - ANO 85/86",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "30/8/2021 15:48:49",
+      "updated_at": "24/9/2021 15:39:48"
+    },
+    {
+      "id": "686",
+      "marcaId": "4",
+      "modeloDesc": "PICK-UP CORSA - ANO 1996...",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "30/8/2021 15:56:19",
+      "updated_at": "30/8/2021 15:56:19"
+    },
+    {
+      "id": "687",
+      "marcaId": "4",
+      "modeloDesc": "BLAZER, S-10 - ANO 02/06",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "30/8/2021 15:56:38",
+      "updated_at": "2/12/2021 23:02:48"
+    },
+    {
+      "id": "688",
+      "marcaId": "1",
+      "modeloDesc": "VOLARE A6 E A8 - CAMINHÃO 7000DX, 7500TCA, 8500TCA, V6 E V8 - ANO 2001...",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "30/8/2021 15:58:39",
+      "updated_at": "28/10/2021 14:45:39"
+    },
+    {
+      "id": "689",
+      "marcaId": "1",
+      "modeloDesc": "VOLARE A8, V6 E V8 - ANO 2001...",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "30/8/2021 15:59:24",
+      "updated_at": "28/10/2021 14:41:48"
+    },
+    {
+      "id": "690",
+      "marcaId": "1",
+      "modeloDesc": "VOLARE W8, MICRO-ÔNIBUS MA 8,5T, 7,5TDX, MA 10T, V6, V8 E 9200 - ANO 2001...",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "30/8/2021 16:03:42",
+      "updated_at": "30/8/2021 16:03:42"
+    },
+    {
+      "id": "691",
+      "marcaId": "1",
+      "modeloDesc": "VOLARE W8 E MICRO-ÔNIBUS MA 8,5T - ANO 01/03",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "30/8/2021 16:04:38",
+      "updated_at": "30/8/2021 16:04:38"
+    },
+    {
+      "id": "692",
+      "marcaId": "1",
+      "modeloDesc": "VOLARE W8 E MICRO-ÔNIBUS MA 8,5T - ANO 2004...",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "30/8/2021 16:05:57",
+      "updated_at": "30/8/2021 16:05:57"
+    },
+    {
+      "id": "693",
+      "marcaId": "1",
+      "modeloDesc": "VOLARE A5 - ANO 2002...",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "30/8/2021 16:06:38",
+      "updated_at": "28/10/2021 14:45:33"
+    },
+    {
+      "id": "694",
+      "marcaId": "1",
+      "modeloDesc": "MICRO-ÔNIBUS MA 7,5T E 8,5T MA 10T, V6 E V8 (2012...) - ANO 98/01",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "30/8/2021 16:07:39",
+      "updated_at": "30/8/2021 16:07:39"
+    },
+    {
+      "id": "695",
+      "marcaId": "1",
+      "modeloDesc": "MA 9,2T E MA 9,5T - ANO 2004...",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "30/8/2021 16:09:47",
+      "updated_at": "30/8/2021 16:09:47"
+    },
+    {
+      "id": "696",
+      "marcaId": "1",
+      "modeloDesc": "MICRO-ÔNIBUS MA 7.5 TON - ANO 2001...",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "30/8/2021 16:17:31",
+      "updated_at": "30/8/2021 16:17:31"
+    },
+    {
+      "id": "697",
+      "marcaId": "1",
+      "modeloDesc": "VOLARE W7, W8 E W9 - ANO 2012...",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "30/8/2021 16:18:04",
+      "updated_at": "30/8/2021 16:18:04"
+    },
+    {
+      "id": "698",
+      "marcaId": "1",
+      "modeloDesc": "ÔNIBUS MA 12 TON - ANO 2005",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "30/8/2021 16:18:28",
+      "updated_at": "30/8/2021 16:18:28"
+    },
+    {
+      "id": "699",
+      "marcaId": "1",
+      "modeloDesc": "ÔNIBUS MA 12 TON - ANO 05/06",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "30/8/2021 16:18:59",
+      "updated_at": "30/8/2021 16:18:59"
+    },
+    {
+      "id": "700",
+      "marcaId": "1",
+      "modeloDesc": "ÔNIBUS MA 15 TON - ANO 2009...",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "30/8/2021 16:19:28",
+      "updated_at": "30/8/2021 16:19:28"
+    },
+    {
+      "id": "701",
+      "marcaId": "5",
+      "modeloDesc": "UNO AUTOMÓVEL E PRÊMIO - ANO 85/93",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "31/8/2021 14:33:58",
+      "updated_at": "31/8/2021 14:33:58"
+    },
+    {
+      "id": "702",
+      "marcaId": "5",
+      "modeloDesc": "ELBA, PANORAMA E UNO A GÁS REFORÇADO - ANO 85/93",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "31/8/2021 14:35:33",
+      "updated_at": "31/8/2021 14:35:33"
+    },
+    {
+      "id": "703",
+      "marcaId": "5",
+      "modeloDesc": "UNO WAY E UNO A GÁS (ALTO)",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "31/8/2021 14:36:05",
+      "updated_at": "28/9/2021 22:57:27"
+    },
+    {
+      "id": "704",
+      "marcaId": "5",
+      "modeloDesc": "147 (AUTOMÓVEL E PICK-UP) E SPAZIO - ANO 1977",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "31/8/2021 14:36:48",
+      "updated_at": "31/8/2021 14:36:48"
+    },
+    {
+      "id": "705",
+      "marcaId": "5",
+      "modeloDesc": "PALIO STRADA CABINE CURTA (SUBSTITUIÇÃO) - ANO 1999",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "31/8/2021 14:37:19",
+      "updated_at": "31/8/2021 14:37:19"
+    },
+    {
+      "id": "706",
+      "marcaId": "5",
+      "modeloDesc": "DOBLÔ 1.8 ADVENTURE (SUBSTITUIÇÃO)",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "31/8/2021 14:38:11",
+      "updated_at": "31/8/2021 14:38:11"
+    },
+    {
+      "id": "707",
+      "marcaId": "5",
+      "modeloDesc": "FIORINO ELETRONIC - ANO 1996",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "31/8/2021 14:41:42",
+      "updated_at": "31/8/2021 14:41:42"
+    },
+    {
+      "id": "708",
+      "marcaId": "5",
+      "modeloDesc": "MICRO-ÔNIBUS CITY CLASS 6013, IVECO DAILY 5912, 7013, 70C17 - ANO 03/04",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "31/8/2021 14:42:55",
+      "updated_at": "28/9/2021 22:55:15"
+    },
+    {
+      "id": "709",
+      "marcaId": "5",
+      "modeloDesc": "IVECO TURBO DAILY 35-10 - ANO 1997",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "31/8/2021 14:47:13",
+      "updated_at": "15/9/2021 09:17:01"
+    },
+    {
+      "id": "710",
+      "marcaId": "5",
+      "modeloDesc": "CAMINHÃO 190 - ANO TODOS",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "31/8/2021 14:51:53",
+      "updated_at": "31/8/2021 14:51:53"
+    },
+    {
+      "id": "711",
+      "marcaId": "5",
+      "modeloDesc": "IVECO 150E18, 160E21, 170E22 EURO CARGO 230E24 E 260E25 - ANO 2000...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "31/8/2021 14:53:38",
+      "updated_at": "31/8/2021 14:53:49"
+    },
+    {
+      "id": "712",
+      "marcaId": "5",
+      "modeloDesc": "IVECO 160 E 21 - ANO 2000...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "31/8/2021 14:54:18",
+      "updated_at": "31/8/2021 14:54:18"
+    },
+    {
+      "id": "713",
+      "marcaId": "5",
+      "modeloDesc": "IVECO STRALIS - ANO 2005...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "31/8/2021 14:55:04",
+      "updated_at": "31/8/2021 14:55:04"
+    },
+    {
+      "id": "714",
+      "marcaId": "5",
+      "modeloDesc": "AD-7 / 70CI - ANO TODOS",
+      "veiculoTipoId": "8",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "31/8/2021 14:55:51",
+      "updated_at": "31/8/2021 14:57:47"
+    },
+    {
+      "id": "715",
+      "marcaId": "5",
+      "modeloDesc": "AD-7 B - ANO TODOS",
+      "veiculoTipoId": "8",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "31/8/2021 14:58:29",
+      "updated_at": "31/8/2021 14:58:29"
+    },
+    {
+      "id": "716",
+      "marcaId": "5",
+      "modeloDesc": "AD-9 - ANO TODOS",
+      "veiculoTipoId": "8",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "31/8/2021 14:58:49",
+      "updated_at": "31/8/2021 14:58:49"
+    },
+    {
+      "id": "717",
+      "marcaId": "5",
+      "modeloDesc": "DOBLÔ 1.8 ADVENTURE - ANO 2000...",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "31/8/2021 14:59:53",
+      "updated_at": "31/8/2021 14:59:53"
+    },
+    {
+      "id": "718",
+      "marcaId": "5",
+      "modeloDesc": "DOBLÔ 1.3 E 1.6 - ANO 2000...",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "31/8/2021 15:02:28",
+      "updated_at": "31/8/2021 15:02:28"
+    },
+    {
+      "id": "719",
+      "marcaId": "5",
+      "modeloDesc": "PICK-UP STRADA CABINE SIMPLES - ANO 1999...",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "31/8/2021 15:03:07",
+      "updated_at": "31/8/2021 15:03:07"
+    },
+    {
+      "id": "720",
+      "marcaId": "5",
+      "modeloDesc": "DUCATO - ANO 2000...",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "31/8/2021 15:03:39",
+      "updated_at": "31/8/2021 15:03:39"
+    },
+    {
+      "id": "721",
+      "marcaId": "5",
+      "modeloDesc": "IVECO MICRO-ÔNIBUS, ATTUALE, AMBULÂNCIA, FRATELO E CITY CLASS - ANO 2000...",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "31/8/2021 15:05:16",
+      "updated_at": "28/9/2021 22:54:40"
+    },
+    {
+      "id": "722",
+      "marcaId": "5",
+      "modeloDesc": "VERTIS 9 TON, 90V18, 90V19 - ANO 2013...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "31/8/2021 15:05:40",
+      "updated_at": "31/8/2021 15:06:17"
+    },
+    {
+      "id": "723",
+      "marcaId": "5",
+      "modeloDesc": "VERTIS 13 TON, 130V18, 130V19",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "31/8/2021 15:06:57",
+      "updated_at": "31/8/2021 15:06:57"
+    },
+    {
+      "id": "724",
+      "marcaId": "5",
+      "modeloDesc": "TECTOR 170E25, 170E25T, 240E22, 240E25, 240E25S E 240E28S - ANO 2011...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "31/8/2021 15:07:58",
+      "updated_at": "31/8/2021 15:07:58"
+    },
+    {
+      "id": "725",
+      "marcaId": "5",
+      "modeloDesc": "STRALIS 6X4 22 TON - ANO 2007...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "31/8/2021 15:09:26",
+      "updated_at": "31/8/2021 15:09:26"
+    },
+    {
+      "id": "726",
+      "marcaId": "6",
+      "modeloDesc": "PAMPA - ANO 81/97",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "3/9/2021 11:45:16",
+      "updated_at": "3/9/2021 11:45:16"
+    },
+    {
+      "id": "728",
+      "marcaId": "6",
+      "modeloDesc": "F-1.000 - ANO 90/96",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "3/9/2021 13:58:33",
+      "updated_at": "3/9/2021 13:58:33"
+    },
+    {
+      "id": "729",
+      "marcaId": "6",
+      "modeloDesc": "F-2.000 - ANO 80/86",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "3/9/2021 13:59:18",
+      "updated_at": "3/9/2021 13:59:18"
+    },
+    {
+      "id": "730",
+      "marcaId": "6",
+      "modeloDesc": "RANGER - ANO 1997",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "3/9/2021 13:59:57",
+      "updated_at": "3/9/2021 13:59:57"
+    },
+    {
+      "id": "732",
+      "marcaId": "6",
+      "modeloDesc": "F-250 - ANO 2000",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "3/9/2021 14:01:15",
+      "updated_at": "3/9/2021 14:01:15"
+    },
+    {
+      "id": "734",
+      "marcaId": "6",
+      "modeloDesc": "F-350 ANTIGO",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "3/9/2021 14:02:25",
+      "updated_at": "2/12/2021 23:06:15"
+    },
+    {
+      "id": "735",
+      "marcaId": "6",
+      "modeloDesc": "F-350 - ANO 1999...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "3/9/2021 14:02:47",
+      "updated_at": "28/9/2021 21:48:39"
+    },
+    {
+      "id": "737",
+      "marcaId": "6",
+      "modeloDesc": "F-4.000 ANTIGO - ANO 75/88",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "3/9/2021 14:04:10",
+      "updated_at": "2/12/2021 23:06:24"
+    },
+    {
+      "id": "738",
+      "marcaId": "6",
+      "modeloDesc": "F-4.000 INTERMEDIARIA - ANO 89/98",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "3/9/2021 14:04:24",
+      "updated_at": "2/12/2021 23:06:31"
+    },
+    {
+      "id": "740",
+      "marcaId": "6",
+      "modeloDesc": "F-4.000 MODERNA - ANO 1999...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "3/9/2021 14:33:28",
+      "updated_at": "2/12/2021 23:06:39"
+    },
+    {
+      "id": "743",
+      "marcaId": "6",
+      "modeloDesc": "CARGO 712, 814 E 815 - ANO 1996...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "3/9/2021 14:35:19",
+      "updated_at": "3/9/2021 14:35:19"
+    },
+    {
+      "id": "744",
+      "marcaId": "6",
+      "modeloDesc": "F-600, F-11.000, E F-21.000 - ANO 72/83",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "3/9/2021 14:36:51",
+      "updated_at": "24/9/2021 13:29:22"
+    },
+    {
+      "id": "747",
+      "marcaId": "6",
+      "modeloDesc": "F-11.000, 12.000, 13.000 E 15.000 - ANO 81/84",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "3/9/2021 14:43:13",
+      "updated_at": "3/9/2021 14:43:13"
+    },
+    {
+      "id": "748",
+      "marcaId": "6",
+      "modeloDesc": "F-12.000, F-14.000 SAPÃO E PITBULL - ANO 93/98",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "3/9/2021 14:46:58",
+      "updated_at": "28/9/2021 22:07:05"
+    },
+    {
+      "id": "750",
+      "marcaId": "6",
+      "modeloDesc": "F-12.000 E 14.000 - ANO 99/01",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "3/9/2021 14:48:23",
+      "updated_at": "3/9/2021 14:48:23"
+    },
+    {
+      "id": "752",
+      "marcaId": "6",
+      "modeloDesc": "F-12.000, F-16.000 - ANO 2002...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "3/9/2021 14:49:07",
+      "updated_at": "28/9/2021 22:12:08"
+    },
+    {
+      "id": "754",
+      "marcaId": "6",
+      "modeloDesc": "F-14.000, F-16.000 - ANO 99/01",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "3/9/2021 14:50:18",
+      "updated_at": "2/12/2021 23:06:05"
+    },
+    {
+      "id": "756",
+      "marcaId": "6",
+      "modeloDesc": "F-16.000 - ANO 99/01",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "3/9/2021 14:50:52",
+      "updated_at": "28/9/2021 22:49:11"
+    },
+    {
+      "id": "757",
+      "marcaId": "6",
+      "modeloDesc": "CARGO - 13, 14, 15, 16 TON 3224, 3530, 4030 - ANO 1990",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "3/9/2021 14:52:15",
+      "updated_at": "29/9/2021 15:26:08"
+    },
+    {
+      "id": "760",
+      "marcaId": "6",
+      "modeloDesc": "CARGO - 1113, 1313, 1415, 1514  E 1215 - ANO 1986",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "3/9/2021 14:54:51",
+      "updated_at": "29/9/2021 15:13:14"
+    },
+    {
+      "id": "761",
+      "marcaId": "6",
+      "modeloDesc": "CARGO - 1617, 1622 E 2422 - ANO 91/92",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "3/9/2021 14:55:21",
+      "updated_at": "25/9/2021 14:32:03"
+    },
+    {
+      "id": "763",
+      "marcaId": "6",
+      "modeloDesc": "CARGO - 2222, E 2425, 2622 E 2631 - ANO 2002",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "3/9/2021 15:01:30",
+      "updated_at": "29/9/2021 15:29:05"
+    },
+    {
+      "id": "764",
+      "marcaId": "6",
+      "modeloDesc": "CARGO 2622 6X4",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "3/9/2021 15:02:29",
+      "updated_at": "3/9/2021 15:02:29"
+    },
+    {
+      "id": "765",
+      "marcaId": "6",
+      "modeloDesc": "D-400 E P-400",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "3/9/2021 15:02:48",
+      "updated_at": "3/9/2021 15:02:48"
+    },
+    {
+      "id": "766",
+      "marcaId": "6",
+      "modeloDesc": "D-900, P-900, D-950 E P-950 - ANO 73/89",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "3/9/2021 15:03:52",
+      "updated_at": "3/9/2021 15:03:52"
+    },
+    {
+      "id": "767",
+      "marcaId": "6",
+      "modeloDesc": "COURIER - ANO 1998...",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "3/9/2021 15:14:52",
+      "updated_at": "3/9/2021 15:14:52"
+    },
+    {
+      "id": "771",
+      "marcaId": "6",
+      "modeloDesc": "CARGO 814, 815 E 8 TON - ANO 97/99",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "3/9/2021 15:18:12",
+      "updated_at": "3/9/2021 15:18:12"
+    },
+    {
+      "id": "772",
+      "marcaId": "6",
+      "modeloDesc": "F-14.000, CARGO 3560, 1415 E 1422 - ANO 91/98",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "3/9/2021 15:21:24",
+      "updated_at": "29/9/2021 15:58:24"
+    },
+    {
+      "id": "774",
+      "marcaId": "6",
+      "modeloDesc": "CARGO 1319, 1519, 13/15 TON - ANO 2010...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "3/9/2021 15:24:05",
+      "updated_at": "29/9/2021 16:01:29"
+    },
+    {
+      "id": "776",
+      "marcaId": "6",
+      "modeloDesc": "FORD BUS 1618, 1621, 1721 - ANO 1992",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "3/9/2021 15:26:10",
+      "updated_at": "2/12/2021 23:05:40"
+    },
+    {
+      "id": "780",
+      "marcaId": "12",
+      "modeloDesc": "709 - ANO 1988",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "6/9/2021 14:40:16",
+      "updated_at": "24/9/2021 09:12:12"
+    },
+    {
+      "id": "786",
+      "marcaId": "12",
+      "modeloDesc": "710, 812, 814, 912 E 914 - ANO 1998...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "6/9/2021 14:53:57",
+      "updated_at": "24/9/2021 09:55:25"
+    },
+    {
+      "id": "788",
+      "marcaId": "12",
+      "modeloDesc": "321 / 1111 - ANO 57/84",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "6/9/2021 14:58:43",
+      "updated_at": "4/10/2021 14:40:12"
+    },
+    {
+      "id": "790",
+      "marcaId": "12",
+      "modeloDesc": "1113, 1114 - ANO 69/84",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "6/9/2021 15:01:52",
+      "updated_at": "9/12/2021 17:21:12"
+    },
+    {
+      "id": "795",
+      "marcaId": "12",
+      "modeloDesc": "1313 - ANO 70/84",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "6/9/2021 15:32:57",
+      "updated_at": "24/9/2021 10:20:34"
+    },
+    {
+      "id": "799",
+      "marcaId": "12",
+      "modeloDesc": "1513 - ANO 70/84 ",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "6/9/2021 15:49:54",
+      "updated_at": "24/9/2021 10:35:17"
+    },
+    {
+      "id": "803",
+      "marcaId": "12",
+      "modeloDesc": "1618 E 1620 - ANO 97/00",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "6/9/2021 16:10:37",
+      "updated_at": "4/10/2021 16:24:42"
+    },
+    {
+      "id": "805",
+      "marcaId": "12",
+      "modeloDesc": "1714, 1718, 1721 E 2423 - ANO 1998",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "6/9/2021 16:14:22",
+      "updated_at": "4/10/2021 16:38:15"
+    },
+    {
+      "id": "807",
+      "marcaId": "12",
+      "modeloDesc": "TRAÇADO 2013, 2215, 2216 E 2219 - ANO 70/84",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "6/9/2021 16:17:50",
+      "updated_at": "16/11/2021 20:00:24"
+    },
+    {
+      "id": "812",
+      "marcaId": "12",
+      "modeloDesc": "1418 E 1620 ELETRÔNICO - ANO 2001...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "6/9/2021 16:32:24",
+      "updated_at": "16/11/2021 19:57:57"
+    },
+    {
+      "id": "813",
+      "marcaId": "12",
+      "modeloDesc": "1620 - ANO 1997",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "6/9/2021 16:32:54",
+      "updated_at": "6/9/2021 16:32:54"
+    },
+    {
+      "id": "814",
+      "marcaId": "12",
+      "modeloDesc": "1632 E 1634 - ANO 1999...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "6/9/2021 16:36:00",
+      "updated_at": "24/9/2021 10:04:29"
+    },
+    {
+      "id": "815",
+      "marcaId": "12",
+      "modeloDesc": "1714 E 1721 (CAMINHÃO E ÔNIBUS) - ANO 1992",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "6/9/2021 16:44:08",
+      "updated_at": "24/9/2021 11:36:38"
+    },
+    {
+      "id": "816",
+      "marcaId": "12",
+      "modeloDesc": "1718 M (CAMINHÃO DO LIXO) - ANO 00/04",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "6/9/2021 16:45:45",
+      "updated_at": "16/11/2021 19:58:28"
+    },
+    {
+      "id": "818",
+      "marcaId": "12",
+      "modeloDesc": "1924 E 1929 - ANO 77/84",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "6/9/2021 16:48:09",
+      "updated_at": "6/9/2021 16:48:09"
+    },
+    {
+      "id": "820",
+      "marcaId": "12",
+      "modeloDesc": "1932 E 1934 - ANO 1999...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "6/9/2021 16:52:55",
+      "updated_at": "24/9/2021 11:34:11"
+    },
+    {
+      "id": "821",
+      "marcaId": "12",
+      "modeloDesc": "1935 À 1941 - ANO 1997",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "6/9/2021 16:54:15",
+      "updated_at": "6/9/2021 16:54:15"
+    },
+    {
+      "id": "824",
+      "marcaId": "12",
+      "modeloDesc": "TRAÇADO 2314, 2318, 2325, 2425, 2414 E 2418 - ANO 1993",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "6/9/2021 16:58:21",
+      "updated_at": "16/11/2021 19:51:02"
+    },
+    {
+      "id": "825",
+      "marcaId": "12",
+      "modeloDesc": "ATRON 2423, 2428, 2480 E 2729 - ANO 2000",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "6/9/2021 16:59:38",
+      "updated_at": "16/11/2021 19:41:22"
+    },
+    {
+      "id": "826",
+      "marcaId": "12",
+      "modeloDesc": "TRAÇADO 2218, 2225, 2325, 2423, 2428 E LK 2318 - ANO 1989",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "6/9/2021 17:02:30",
+      "updated_at": "16/11/2021 19:51:06"
+    },
+    {
+      "id": "827",
+      "marcaId": "12",
+      "modeloDesc": "TRAÇADO 2213, 2325 E LB 2216, 2219 - ANO 1970",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "6/9/2021 17:03:41",
+      "updated_at": "16/11/2021 19:51:21"
+    },
+    {
+      "id": "828",
+      "marcaId": "12",
+      "modeloDesc": "2638 E 1938 - ANO 2000",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "6/9/2021 17:04:35",
+      "updated_at": "6/9/2021 17:04:35"
+    },
+    {
+      "id": "829",
+      "marcaId": "12",
+      "modeloDesc": "AXOR 1938 (6X2) - 2040 CAMINHAO 6 X 2 (EIXO TRAÇAO) - ANO 2001...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "6/9/2021 17:05:50",
+      "updated_at": "13/12/2021 09:56:00"
+    },
+    {
+      "id": "830",
+      "marcaId": "12",
+      "modeloDesc": "AXOR 1938 (6X2) - 2040 CAMINHAO 6X2 (EIXO LIVRE) - ANO 2001...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "6/9/2021 17:07:08",
+      "updated_at": "13/12/2021 09:56:07"
+    },
+    {
+      "id": "831",
+      "marcaId": "12",
+      "modeloDesc": "TRAÇADO 2635, 2638 - ANO 1995",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "6/9/2021 17:08:00",
+      "updated_at": "16/11/2021 19:50:22"
+    },
+    {
+      "id": "833",
+      "marcaId": "12",
+      "modeloDesc": "AXOR 3340 S, 4140 E 4144 (SUBSTITUIÇAO) - ANO 2005...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "6/9/2021 17:10:51",
+      "updated_at": "6/9/2021 17:10:51"
+    },
+    {
+      "id": "835",
+      "marcaId": "12",
+      "modeloDesc": "AXOR 2540, 2640S, 2826 E 2831 (SUBSTITUIÇAO) - ANO 2005...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "6/9/2021 17:13:23",
+      "updated_at": "6/9/2021 17:13:23"
+    },
+    {
+      "id": "838",
+      "marcaId": "12",
+      "modeloDesc": "AXOR 6 X4 4140, 4144",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "6/9/2021 17:18:06",
+      "updated_at": "16/11/2021 19:57:02"
+    },
+    {
+      "id": "840",
+      "marcaId": "12",
+      "modeloDesc": "1625, 1630, 1635 E 1941 CABINE LEITO - ANO 1990...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 09:23:28",
+      "updated_at": "8/9/2021 09:23:28"
+    },
+    {
+      "id": "841",
+      "marcaId": "12",
+      "modeloDesc": "ACCELO 7 TON  - ANO 2003...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 09:24:30",
+      "updated_at": "8/9/2021 09:24:30"
+    },
+    {
+      "id": "842",
+      "marcaId": "12",
+      "modeloDesc": "ACCELO 9 TON  - ANO 2003...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 09:25:27",
+      "updated_at": "8/9/2021 09:25:27"
+    },
+    {
+      "id": "843",
+      "marcaId": "12",
+      "modeloDesc": "815, LO 916, EURO 5, 1016 - ANO 2012...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 09:27:09",
+      "updated_at": "24/9/2021 10:05:17"
+    },
+    {
+      "id": "844",
+      "marcaId": "12",
+      "modeloDesc": "ACCELO 1016 - ANO 2012...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 09:27:42",
+      "updated_at": "13/12/2021 09:54:14"
+    },
+    {
+      "id": "845",
+      "marcaId": "12",
+      "modeloDesc": "1214 À 1620 - ANO 1990...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 09:30:10",
+      "updated_at": "4/10/2021 15:09:33"
+    },
+    {
+      "id": "846",
+      "marcaId": "12",
+      "modeloDesc": "1938S, (CARA CHATA) 1944S - ANO 2000...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 09:31:41",
+      "updated_at": "8/9/2021 09:31:41"
+    },
+    {
+      "id": "847",
+      "marcaId": "12",
+      "modeloDesc": "2418, 1718, 1728 CAVALO MECANICO",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 09:39:42",
+      "updated_at": "4/10/2021 16:37:40"
+    },
+    {
+      "id": "849",
+      "marcaId": "12",
+      "modeloDesc": "ATEGO 1315, 1418 E 1419 - ANO 2005...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 09:48:41",
+      "updated_at": "4/10/2021 15:00:12"
+    },
+    {
+      "id": "851",
+      "marcaId": "12",
+      "modeloDesc": "ATEGO 1518, 1718, 1725 (4X2), 2425, 2426, 2428, 2429 E 2430 (6X2) - ANO 2005... ",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 09:51:57",
+      "updated_at": "8/9/2021 09:51:57"
+    },
+    {
+      "id": "852",
+      "marcaId": "12",
+      "modeloDesc": "ATEGO 1518, 1718, 1725 E 2425 - ANO 2005...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 09:53:02",
+      "updated_at": "8/9/2021 09:53:02"
+    },
+    {
+      "id": "853",
+      "marcaId": "12",
+      "modeloDesc": "ATEGO 1718  E 1725 CAMINHAO DE BEBIDAS E LIXO - ANO 2005...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 09:54:22",
+      "updated_at": "13/12/2021 09:55:30"
+    },
+    {
+      "id": "855",
+      "marcaId": "12",
+      "modeloDesc": "ATEGO 1729, 2730 - ANO 2016...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 09:55:54",
+      "updated_at": "8/9/2021 09:55:54"
+    },
+    {
+      "id": "856",
+      "marcaId": "12",
+      "modeloDesc": "ATEGO 1725 4 X 4 SEMI-PESADO - ANO 2006...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 09:56:41",
+      "updated_at": "13/12/2021 09:55:19"
+    },
+    {
+      "id": "857",
+      "marcaId": "12",
+      "modeloDesc": "AXOR 1933, 2035, 2040, 2044, 2533 E 2540 - ANO 2000...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 09:59:07",
+      "updated_at": "8/9/2021 09:59:07"
+    },
+    {
+      "id": "858",
+      "marcaId": "12",
+      "modeloDesc": "AXOR 3340, 3344, 4140 E 4144 - ANO 2000...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 10:00:07",
+      "updated_at": "8/9/2021 10:00:07"
+    },
+    {
+      "id": "859",
+      "marcaId": "12",
+      "modeloDesc": "AXOR 2540, 2640S, 2826 E 2831 - ANO 2000...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 10:01:10",
+      "updated_at": "8/9/2021 10:01:10"
+    },
+    {
+      "id": "860",
+      "marcaId": "12",
+      "modeloDesc": "TRAÇADO AXOR (6X4) 2640S E 3340S - ANO 2005...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 10:01:57",
+      "updated_at": "16/11/2021 19:53:01"
+    },
+    {
+      "id": "861",
+      "marcaId": "12",
+      "modeloDesc": "AXOR TRAS. 1938-S CARA CHATA, 1944, 2035, 2040, 2044... - ANO 2000...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 10:03:40",
+      "updated_at": "8/9/2021 10:03:40"
+    },
+    {
+      "id": "862",
+      "marcaId": "12",
+      "modeloDesc": "AXOR (6X4) 2826 E 2831 MINERAÇAO - ANO 2000...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 10:04:44",
+      "updated_at": "8/9/2021 10:04:44"
+    },
+    {
+      "id": "863",
+      "marcaId": "12",
+      "modeloDesc": "ACTROS - ANO 2005...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 10:05:24",
+      "updated_at": "8/9/2021 10:05:24"
+    },
+    {
+      "id": "864",
+      "marcaId": "12",
+      "modeloDesc": "608 708 CAMINHAO E ONIBUS - ANO 71/87",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 10:08:04",
+      "updated_at": "13/12/2021 09:55:04"
+    },
+    {
+      "id": "875",
+      "marcaId": "12",
+      "modeloDesc": "OF-1315, OF-1318 2ª SÉRIE - ANO 93/94",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 10:28:27",
+      "updated_at": "2/12/2021 22:46:15"
+    },
+    {
+      "id": "876",
+      "marcaId": "12",
+      "modeloDesc": "1215 C E 1618 FINO - ANO 2000",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 10:29:11",
+      "updated_at": "2/12/2021 22:20:37"
+    },
+    {
+      "id": "877",
+      "marcaId": "12",
+      "modeloDesc": "OF-1318 2ª SÉRIE - ANO 1990... ",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 10:30:03",
+      "updated_at": "2/12/2021 22:19:07"
+    },
+    {
+      "id": "879",
+      "marcaId": "12",
+      "modeloDesc": "OF-1417 ELETRONIC - ANO 1997...",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 10:31:36",
+      "updated_at": "2/12/2021 22:19:21"
+    },
+    {
+      "id": "880",
+      "marcaId": "12",
+      "modeloDesc": "OF-1417 E OF-1418 ELETRONIC - ANO 1999...",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 10:32:45",
+      "updated_at": "2/12/2021 22:19:30"
+    },
+    {
+      "id": "881",
+      "marcaId": "12",
+      "modeloDesc": "OF-1714 E OF-1418 - ANO 1999...",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 10:33:20",
+      "updated_at": "24/9/2021 09:04:07"
+    },
+    {
+      "id": "883",
+      "marcaId": "12",
+      "modeloDesc": "OF-1620, 1618 E OF-1721 1ª SÉRIE - ANO 90/98",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 10:35:24",
+      "updated_at": "2/12/2021 22:41:49"
+    },
+    {
+      "id": "884",
+      "marcaId": "12",
+      "modeloDesc": "OF-1721 (1ª, 2ª E 3ª SÉRIES ) 1714 E 1718 -  ANO 1997...",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 10:36:43",
+      "updated_at": "8/9/2021 10:39:17"
+    },
+    {
+      "id": "885",
+      "marcaId": "12",
+      "modeloDesc": "OF-1721 2ª SÉRIE - ANO 99/01",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 10:37:32",
+      "updated_at": "8/9/2021 10:39:08"
+    },
+    {
+      "id": "886",
+      "marcaId": "12",
+      "modeloDesc": "O-355, O-362 - ANO 74/79",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 10:39:01",
+      "updated_at": "2/12/2021 22:46:52"
+    },
+    {
+      "id": "887",
+      "marcaId": "12",
+      "modeloDesc": "O-364 - ANO 78/84",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 10:46:14",
+      "updated_at": "8/9/2021 10:46:14"
+    },
+    {
+      "id": "888",
+      "marcaId": "12",
+      "modeloDesc": "O-370, O-371 MONOBLOCO - ANO 78/84",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 10:47:38",
+      "updated_at": "2/12/2021 22:18:33"
+    },
+    {
+      "id": "889",
+      "marcaId": "16",
+      "modeloDesc": "AMAROK TDI - ANO 2011...",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 13:53:20",
+      "updated_at": "8/9/2021 13:53:20"
+    },
+    {
+      "id": "893",
+      "marcaId": "16",
+      "modeloDesc": "6.80, 6.90, 7.90 E 7.110 - ANO 1986",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 14:00:58",
+      "updated_at": "8/9/2021 14:00:58"
+    },
+    {
+      "id": "894",
+      "marcaId": "16",
+      "modeloDesc": "6.80, 6.90 E 7.90 - ANO 82/84 ",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 14:02:10",
+      "updated_at": "8/9/2021 14:02:10"
+    },
+    {
+      "id": "895",
+      "marcaId": "16",
+      "modeloDesc": "7.100, 8.140, 8.150 E 9,150 - ANO 1994",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 14:03:38",
+      "updated_at": "13/9/2021 10:10:38"
+    },
+    {
+      "id": "897",
+      "marcaId": "16",
+      "modeloDesc": "8.140, 8.150 E 9.150 - ANO 1998",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 14:06:58",
+      "updated_at": "12/12/2021 11:06:06"
+    },
+    {
+      "id": "899",
+      "marcaId": "16",
+      "modeloDesc": "11.130 E 14.210 ROAD MASTER - ANO 1984",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 14:13:41",
+      "updated_at": "8/9/2021 14:13:41"
+    },
+    {
+      "id": "900",
+      "marcaId": "16",
+      "modeloDesc": "13.130 ROAD MASTER - ANO 82/91",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 14:17:52",
+      "updated_at": "8/9/2021 14:17:52"
+    },
+    {
+      "id": "902",
+      "marcaId": "16",
+      "modeloDesc": "11.130, 11.140, 13.130, 14.140 E 14.210 - ANO 81/84",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 14:20:06",
+      "updated_at": "8/9/2021 14:20:06"
+    },
+    {
+      "id": "903",
+      "marcaId": "16",
+      "modeloDesc": "11.130, 13.130 E 14.210 -  ANO 81/84",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 14:21:24",
+      "updated_at": "8/9/2021 14:21:24"
+    },
+    {
+      "id": "905",
+      "marcaId": "16",
+      "modeloDesc": "12.140, 12.170 E 1215 CARGO 13.150, 13.170 E 13.180 ( 1991...) - ANO 1997",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 14:31:08",
+      "updated_at": "8/9/2021 14:31:08"
+    },
+    {
+      "id": "906",
+      "marcaId": "16",
+      "modeloDesc": "12.140 H, 12.140 T, 12.170 BT E 12.180, 13.150, 13170, 13.180 E CARGO 1215 - ANO 91/04",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 14:33:06",
+      "updated_at": "8/9/2021 14:33:06"
+    },
+    {
+      "id": "907",
+      "marcaId": "16",
+      "modeloDesc": "14.150, 14.200, 14.220 E 15.180 - ANO 86/91",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 14:34:29",
+      "updated_at": "8/9/2021 14:34:29"
+    },
+    {
+      "id": "908",
+      "marcaId": "16",
+      "modeloDesc": "13.180, 13.190, 15.180, 15.190, 15.210 - ANO 2011...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 14:36:12",
+      "updated_at": "8/9/2021 14:36:12"
+    },
+    {
+      "id": "909",
+      "marcaId": "16",
+      "modeloDesc": "14.150, 14.200,14.220 E 15.180 - ANO 1992",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 14:38:08",
+      "updated_at": "8/9/2021 14:38:08"
+    },
+    {
+      "id": "910",
+      "marcaId": "16",
+      "modeloDesc": "14.150,15.180 E 12.140 (CURTO) - ANO 1994",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 14:39:13",
+      "updated_at": "8/9/2021 14:39:13"
+    },
+    {
+      "id": "911",
+      "marcaId": "16",
+      "modeloDesc": "14.220 E 12.140 (LONGO) - ANO 1995",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 14:40:16",
+      "updated_at": "8/9/2021 14:40:16"
+    },
+    {
+      "id": "912",
+      "marcaId": "16",
+      "modeloDesc": "16.210 H - ANO 1992",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 14:41:08",
+      "updated_at": "8/9/2021 14:41:08"
+    },
+    {
+      "id": "914",
+      "marcaId": "16",
+      "modeloDesc": "16.220, 16.170, 17.310,23.210, 26.300 CONSTELLATION - ANO 1995",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 14:45:27",
+      "updated_at": "12/12/2021 10:51:03"
+    },
+    {
+      "id": "915",
+      "marcaId": "16",
+      "modeloDesc": "16.220 H - ANO 94/97",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 14:46:43",
+      "updated_at": "8/9/2021 14:46:43"
+    },
+    {
+      "id": "916",
+      "marcaId": "16",
+      "modeloDesc": "16.170, 16.200, 16.220, 16.300, 17.210 E 17.220 (LONGO) - ANO 1990",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 14:48:36",
+      "updated_at": "8/9/2021 14:48:36"
+    },
+    {
+      "id": "917",
+      "marcaId": "16",
+      "modeloDesc": "16.170, 16.200, 16.220, 16.300, 17.210 E 17.220 - ANO 1990",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 14:51:45",
+      "updated_at": "8/9/2021 14:51:45"
+    },
+    {
+      "id": "918",
+      "marcaId": "16",
+      "modeloDesc": "17.180, 17.190, 17.210, 17.230 E 17.280 CAMINHAO DE LIXO - CARGO 1721 - ANO 2014...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 14:53:10",
+      "updated_at": "8/9/2021 14:53:10"
+    },
+    {
+      "id": "919",
+      "marcaId": "16",
+      "modeloDesc": "17.180, 17.190, 17.210, 17.230 E 17.280 CAMINHÃO DE LIXO - (SUSP.KLL) - ANO 10/14",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 14:58:37",
+      "updated_at": "8/9/2021 14:58:37"
+    },
+    {
+      "id": "920",
+      "marcaId": "16",
+      "modeloDesc": "24.220 - ANO 1993",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 14:59:24",
+      "updated_at": "8/9/2021 14:59:24"
+    },
+    {
+      "id": "921",
+      "marcaId": "16",
+      "modeloDesc": "24.220 TRAÇADO E CARGO 2423 - ANO 1993",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 15:00:42",
+      "updated_at": "12/12/2021 11:19:19"
+    },
+    {
+      "id": "922",
+      "marcaId": "16",
+      "modeloDesc": "24.220 TRAÇADO - ANO 1993",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 15:01:58",
+      "updated_at": "12/12/2021 11:19:05"
+    },
+    {
+      "id": "923",
+      "marcaId": "16",
+      "modeloDesc": "22.220, 22.250, 24.220 E 24.250 (1995) 26.220, 26,260 E 26.310 TITAN (2002) ",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 15:04:30",
+      "updated_at": "8/9/2021 15:04:30"
+    },
+    {
+      "id": "924",
+      "marcaId": "16",
+      "modeloDesc": "35.300 E 18.310 TITAN - ANO 1994",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 15:05:47",
+      "updated_at": "8/9/2021 15:05:47"
+    },
+    {
+      "id": "925",
+      "marcaId": "16",
+      "modeloDesc": "18.310 TITAN (SUBSTITUIÇAO) - ANO 2002",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 15:07:19",
+      "updated_at": "8/9/2021 15:07:19"
+    },
+    {
+      "id": "926",
+      "marcaId": "16",
+      "modeloDesc": "18.310 TITAN TRACTOR - ANO 2002",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 15:09:05",
+      "updated_at": "12/12/2021 10:52:34"
+    },
+    {
+      "id": "927",
+      "marcaId": "16",
+      "modeloDesc": "35.300, 16.170 E 18.310 TITAN (MODERNO) 17.210 (CURTO) - ANO 1994",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 15:10:45",
+      "updated_at": "8/9/2021 15:10:45"
+    },
+    {
+      "id": "928",
+      "marcaId": "16",
+      "modeloDesc": "5.5 TON DELIVERY -  ANO 2007...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 15:20:07",
+      "updated_at": "12/12/2021 10:51:28"
+    },
+    {
+      "id": "929",
+      "marcaId": "16",
+      "modeloDesc": "5.5 TON MICRO ONIBUS - ANO 2005...",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 15:21:11",
+      "updated_at": "12/12/2021 10:47:25"
+    },
+    {
+      "id": "931",
+      "marcaId": "16",
+      "modeloDesc": "8.140, 8.150 E 9.150 MICRO ONIBUS  - ANO 97/03",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 15:24:36",
+      "updated_at": "12/12/2021 10:47:38"
+    },
+    {
+      "id": "932",
+      "marcaId": "16",
+      "modeloDesc": "8.120 E 8.150 CAMINHAO - ANO 2000...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 15:25:23",
+      "updated_at": "12/12/2021 11:16:15"
+    },
+    {
+      "id": "934",
+      "marcaId": "16",
+      "modeloDesc": "8.120, 8.140, 8.150, 8 TON CAMINHÃO DELIVERY - ANO 2010...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 15:27:34",
+      "updated_at": "12/12/2021 10:49:38"
+    },
+    {
+      "id": "935",
+      "marcaId": "16",
+      "modeloDesc": "9.150, 9.160 MICRO ONIBUS - ANO 2011...",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 15:28:06",
+      "updated_at": "12/12/2021 10:47:13"
+    },
+    {
+      "id": "936",
+      "marcaId": "16",
+      "modeloDesc": "10.160 - ANO 2012...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 15:28:59",
+      "updated_at": "8/9/2021 15:28:59"
+    },
+    {
+      "id": "937",
+      "marcaId": "16",
+      "modeloDesc": "7.110, 8.120, 8.140 E 8.150 - ANO 94/98",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 15:30:30",
+      "updated_at": "12/12/2021 11:11:52"
+    },
+    {
+      "id": "938",
+      "marcaId": "16",
+      "modeloDesc": "14.150, 14.200 E 14.220 SERVE CARGO 1415, 1420 E 1422 - ANO 1991...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 15:31:31",
+      "updated_at": "8/9/2021 15:31:31"
+    },
+    {
+      "id": "939",
+      "marcaId": "16",
+      "modeloDesc": "12.140H, 12.140T, 12.170BT, 12.180, 13.150, 13.170 E 13.180 SERVE CARGO 1215 - ANO 91/04",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 15:32:39",
+      "updated_at": "8/9/2021 15:32:39"
+    },
+    {
+      "id": "940",
+      "marcaId": "16",
+      "modeloDesc": "16.170, 16.220, 17.210, 17.310, 24.170, 35.300 E 18.310 TITAN (C.CURTO) - ANO 1992...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 15:33:55",
+      "updated_at": "8/9/2021 15:33:55"
+    },
+    {
+      "id": "941",
+      "marcaId": "16",
+      "modeloDesc": "16.170, 16.200, 16.220, 16.300,17.210 E 17.220 VW/CARGO (C.LONGO) - ANO 1991...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 15:35:45",
+      "updated_at": "8/9/2021 15:35:45"
+    },
+    {
+      "id": "942",
+      "marcaId": "16",
+      "modeloDesc": "18.310 TITAN - ANO 2002...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 15:36:41",
+      "updated_at": "8/9/2021 15:36:41"
+    },
+    {
+      "id": "943",
+      "marcaId": "16",
+      "modeloDesc": "19.320, 19.370 E 25.370 CONSTELLATION - ANO 2005...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 15:37:35",
+      "updated_at": "12/12/2021 10:51:17"
+    },
+    {
+      "id": "944",
+      "marcaId": "16",
+      "modeloDesc": "17.180, 17.210, 17.230, 17.280 CAMINHÃO DE LIXO - ANO 1991...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 15:38:38",
+      "updated_at": "12/12/2021 10:50:15"
+    },
+    {
+      "id": "945",
+      "marcaId": "16",
+      "modeloDesc": "5.140, 5.5 TON MICRO ONIBUS E DELIVERY - ANO 2005...",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 15:39:39",
+      "updated_at": "12/12/2021 10:48:19"
+    },
+    {
+      "id": "947",
+      "marcaId": "16",
+      "modeloDesc": "5.140, 5.5 TON MICRO ONIBUS E DELIVERY - ANO 2007...",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 15:41:34",
+      "updated_at": "12/12/2021 10:48:34"
+    },
+    {
+      "id": "949",
+      "marcaId": "16",
+      "modeloDesc": "8.140, 8.150 E 9.150 MICRO ONIBUS - ANO 97/03",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 15:43:13",
+      "updated_at": "12/12/2021 10:49:12"
+    },
+    {
+      "id": "951",
+      "marcaId": "16",
+      "modeloDesc": "15.190 VOLKSBUS ESCOLAR AMARELO - ANO 97/03",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "8/9/2021 15:45:18",
+      "updated_at": "12/12/2021 10:52:58"
+    },
+    {
+      "id": "952",
+      "marcaId": "17",
+      "modeloDesc": "N-1020, N-1220 E N-10 - ANO 80/89",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "9/9/2021 08:50:10",
+      "updated_at": "9/9/2021 08:50:10"
+    },
+    {
+      "id": "953",
+      "marcaId": "17",
+      "modeloDesc": "N-1020, N-1220 - ANO 80/89",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "9/9/2021 08:51:58",
+      "updated_at": "9/9/2021 08:51:58"
+    },
+    {
+      "id": "954",
+      "marcaId": "17",
+      "modeloDesc": "N-10 E N-12 - ANO 84/89",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "9/9/2021 08:52:48",
+      "updated_at": "9/9/2021 08:52:48"
+    },
+    {
+      "id": "955",
+      "marcaId": "17",
+      "modeloDesc": "NL-10, POWER 280, 340 E 400 (4X2) - ANO 1991",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "9/9/2021 08:54:31",
+      "updated_at": "9/9/2021 08:54:50"
+    },
+    {
+      "id": "956",
+      "marcaId": "17",
+      "modeloDesc": "FH / NH - GLOBETROTTER (4 X 2 E 6 X 2 ) - (SUBSTITUIÇAO) - ANO 2000...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "9/9/2021 09:07:02",
+      "updated_at": "9/9/2021 09:07:02"
+    },
+    {
+      "id": "957",
+      "marcaId": "17",
+      "modeloDesc": "N-10, N-12 - TRAÇADO - 6 X 4 - ANO 1983",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "9/9/2021 09:10:48",
+      "updated_at": "9/9/2021 09:10:48"
+    },
+    {
+      "id": "958",
+      "marcaId": "17",
+      "modeloDesc": "FM / FH / NH - 12 (6 X 4) - ANO 1999",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "9/9/2021 09:12:20",
+      "updated_at": "9/9/2021 09:12:20"
+    },
+    {
+      "id": "959",
+      "marcaId": "17",
+      "modeloDesc": "FM / FH / NH - 12 (6X4) (SUBSTITUIÇAO) - ANO 1999",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "9/9/2021 09:13:32",
+      "updated_at": "9/9/2021 09:13:32"
+    },
+    {
+      "id": "960",
+      "marcaId": "17",
+      "modeloDesc": "FH 12 (SUBSTITUIÇAO) ",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "9/9/2021 09:14:46",
+      "updated_at": "9/9/2021 09:14:46"
+    },
+    {
+      "id": "961",
+      "marcaId": "17",
+      "modeloDesc": "VM 210, 240 E 260 (SUBSTITUIÇAO) - ANO 2007",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "9/9/2021 09:15:48",
+      "updated_at": "9/9/2021 09:15:48"
+    },
+    {
+      "id": "962",
+      "marcaId": "17",
+      "modeloDesc": "VM 310 (SUBSTITUIÇAO) - ANO 2007",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "9/9/2021 09:17:22",
+      "updated_at": "9/9/2021 09:17:22"
+    },
+    {
+      "id": "963",
+      "marcaId": "17",
+      "modeloDesc": "VM 23 (6X4)  E LH SUSPENSAO BOGIE 26 TRASEIRO - ANO 2011...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "9/9/2021 09:24:45",
+      "updated_at": "9/9/2021 09:24:45"
+    },
+    {
+      "id": "964",
+      "marcaId": "17",
+      "modeloDesc": "FH 4X2 GLOBETROTTER NH 12 - ANO 00/04",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "9/9/2021 09:25:46",
+      "updated_at": "9/9/2021 09:25:46"
+    },
+    {
+      "id": "965",
+      "marcaId": "17",
+      "modeloDesc": "FM, FH E NH 12 - ANO 00/03...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "9/9/2021 09:31:08",
+      "updated_at": "9/9/2021 09:31:08"
+    },
+    {
+      "id": "966",
+      "marcaId": "17",
+      "modeloDesc": "FM, FH E NH 12 - ANO 2004...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "9/9/2021 09:31:56",
+      "updated_at": "9/9/2021 09:31:56"
+    },
+    {
+      "id": "967",
+      "marcaId": "17",
+      "modeloDesc": "FM 12 4X2, 6X4 CABINE LEITO FH 12 E NH 12 6X4, FH 440 E 460 - ANO 2005...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "9/9/2021 09:34:03",
+      "updated_at": "9/9/2021 09:34:03"
+    },
+    {
+      "id": "968",
+      "marcaId": "17",
+      "modeloDesc": "VM 17 E VM 23 - ANO 2003...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "9/9/2021 09:38:32",
+      "updated_at": "9/9/2021 09:38:32"
+    },
+    {
+      "id": "969",
+      "marcaId": "17",
+      "modeloDesc": "VM 17 - ANO 98/00",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "9/9/2021 09:39:17",
+      "updated_at": "9/9/2021 09:39:17"
+    },
+    {
+      "id": "970",
+      "marcaId": "17",
+      "modeloDesc": "NL 10 E NL 12 (4X2) - ANO 92/99",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "9/9/2021 09:40:04",
+      "updated_at": "9/9/2021 09:40:04"
+    },
+    {
+      "id": "971",
+      "marcaId": "17",
+      "modeloDesc": "VM 310 (6X2 / 6X4) E TRATOR (4X2) - ANO 2006...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "9/9/2021 09:44:33",
+      "updated_at": "9/9/2021 09:44:33"
+    },
+    {
+      "id": "972",
+      "marcaId": "17",
+      "modeloDesc": "NH 12 (4X2 / 6X2) GLOBETROTTER - ANO 96/03",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "9/9/2021 09:46:08",
+      "updated_at": "9/9/2021 09:46:08"
+    },
+    {
+      "id": "973",
+      "marcaId": "17",
+      "modeloDesc": "FM 12 (8X4) 2º EIXO GLOBETROTTER - ANO 2005...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "9/9/2021 09:50:26",
+      "updated_at": "9/9/2021 09:50:26"
+    },
+    {
+      "id": "974",
+      "marcaId": "17",
+      "modeloDesc": "FM 12 8X4 2º EIXO - ANO 2011...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "9/9/2021 09:51:39",
+      "updated_at": "9/9/2021 09:51:39"
+    },
+    {
+      "id": "975",
+      "marcaId": "17",
+      "modeloDesc": "FM, FH E NH 12 - ANO 2000...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "9/9/2021 09:52:38",
+      "updated_at": "9/9/2021 09:52:38"
+    },
+    {
+      "id": "976",
+      "marcaId": "17",
+      "modeloDesc": "FM 12 TRAÇADO (8X4) 1º EIXO - ANO 2011...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "9/9/2021 09:53:41",
+      "updated_at": "9/9/2021 09:53:41"
+    },
+    {
+      "id": "977",
+      "marcaId": "17",
+      "modeloDesc": "FM, NH, FH E VM 310 - ANO 2011...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "9/9/2021 09:54:45",
+      "updated_at": "9/9/2021 09:54:45"
+    },
+    {
+      "id": "978",
+      "marcaId": "17",
+      "modeloDesc": "FH, 420, 460, 500 E 540 - ANO 2014...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "9/9/2021 09:56:12",
+      "updated_at": "9/9/2021 09:56:12"
+    },
+    {
+      "id": "979",
+      "marcaId": "17",
+      "modeloDesc": "FH 540 6X4 (SUBSTITUI O PARABÓLICO) - ANO 2016...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "9/9/2021 09:57:46",
+      "updated_at": "9/9/2021 09:57:46"
+    },
+    {
+      "id": "980",
+      "marcaId": "17",
+      "modeloDesc": "B-58 ÔNIBUS - ANO 80/84",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "9/9/2021 09:58:39",
+      "updated_at": "9/9/2021 09:58:39"
+    },
+    {
+      "id": "981",
+      "marcaId": "12",
+      "modeloDesc": "OF-1313, OF-1318 1ª SÉRIE - ANO 71/92",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "10/9/2021 13:52:27",
+      "updated_at": "2/12/2021 22:45:50"
+    },
+    {
+      "id": "982",
+      "marcaId": "16",
+      "modeloDesc": "8.140 8 TON CAMINHÃO DELIVERY - ANO 2007...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "10/9/2021 15:53:59",
+      "updated_at": "12/12/2021 10:49:48"
+    },
+    {
+      "id": "983",
+      "marcaId": "6",
+      "modeloDesc": "CARGO 4331 MAXI CAVALO MEC. 2422, 2428 - ANO 2005...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "10/9/2021 17:06:23",
+      "updated_at": "29/9/2021 15:59:59"
+    },
+    {
+      "id": "987",
+      "marcaId": "1",
+      "modeloDesc": "VOLARE SÊNIOR - A8 (SUBSTITUIÇAO) - ANO 2004",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 09:54:22",
+      "updated_at": "13/9/2021 09:54:22"
+    },
+    {
+      "id": "988",
+      "marcaId": "1",
+      "modeloDesc": "VOLARE W-8 - ANO 2001",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 09:55:03",
+      "updated_at": "13/9/2021 09:55:03"
+    },
+    {
+      "id": "990",
+      "marcaId": "22",
+      "modeloDesc": "TOPIC 2.2 ",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 09:58:29",
+      "updated_at": "13/9/2021 09:58:29"
+    },
+    {
+      "id": "991",
+      "marcaId": "22",
+      "modeloDesc": "TOPIC 2.7",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 09:58:53",
+      "updated_at": "13/9/2021 09:58:53"
+    },
+    {
+      "id": "992",
+      "marcaId": "22",
+      "modeloDesc": "TOWNER - ANO 1993",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 10:00:59",
+      "updated_at": "13/9/2021 10:00:59"
+    },
+    {
+      "id": "993",
+      "marcaId": "5",
+      "modeloDesc": "DUCATO (SUBSTITUIÇAO) (OLHETES BERLIM) - ANO 2000",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 10:06:13",
+      "updated_at": "13/9/2021 10:07:12"
+    },
+    {
+      "id": "994",
+      "marcaId": "5",
+      "modeloDesc": "DUCATO (SUBSTITUIÇAO) (OLHETES NORMAIS) - ANO 2000",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 10:07:02",
+      "updated_at": "13/9/2021 10:07:02"
+    },
+    {
+      "id": "995",
+      "marcaId": "6",
+      "modeloDesc": "RANGER LIMITED 4 X 4 (PITBULL) - ANO 2012...",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 10:17:18",
+      "updated_at": "2/12/2021 23:04:40"
+    },
+    {
+      "id": "996",
+      "marcaId": "24",
+      "modeloDesc": "H-100, GS-100 E LX-100 - ANO 1997",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 10:19:56",
+      "updated_at": "13/9/2021 10:19:56"
+    },
+    {
+      "id": "997",
+      "marcaId": "25",
+      "modeloDesc": "BESTA 2.2 - ANO 96/97",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 10:25:15",
+      "updated_at": "13/9/2021 10:25:15"
+    },
+    {
+      "id": "998",
+      "marcaId": "25",
+      "modeloDesc": "K-2.500 BONGO - ANO 1999...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 10:26:16",
+      "updated_at": "13/9/2021 10:26:16"
+    },
+    {
+      "id": "999",
+      "marcaId": "12",
+      "modeloDesc": "FURGAO MB 180-D - ANO 1996...",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 10:47:57",
+      "updated_at": "13/9/2021 11:38:06"
+    },
+    {
+      "id": "1000",
+      "marcaId": "12",
+      "modeloDesc": "SPRINTER 310-D ORIGINAL CHASSIS 310, 311, 312 E 313 - ANO 1997",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 10:51:15",
+      "updated_at": "13/9/2021 10:51:15"
+    },
+    {
+      "id": "1001",
+      "marcaId": "12",
+      "modeloDesc": "SPRINTER 310-D - ANO 1997",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 10:51:47",
+      "updated_at": "13/9/2021 10:51:47"
+    },
+    {
+      "id": "1002",
+      "marcaId": "28",
+      "modeloDesc": "FRONTIER 4X4 - ANO 02/07",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 10:54:39",
+      "updated_at": "13/9/2021 10:54:39"
+    },
+    {
+      "id": "1003",
+      "marcaId": "28",
+      "modeloDesc": "FRONTIER 2.5 4 x 4 CABINE DUPLA  - ANO 2008...",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 10:56:03",
+      "updated_at": "13/9/2021 10:56:03"
+    },
+    {
+      "id": "1004",
+      "marcaId": "28",
+      "modeloDesc": "FRONTIER SE 2.8 4 x 4 - ANO 2008...",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 10:56:45",
+      "updated_at": "13/9/2021 10:56:45"
+    },
+    {
+      "id": "1005",
+      "marcaId": "14",
+      "modeloDesc": "HILUX 4 X 4 CABINE SIMPLES E DUPLA - ANO 1994",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 11:00:23",
+      "updated_at": "2/12/2021 13:52:45"
+    },
+    {
+      "id": "1006",
+      "marcaId": "14",
+      "modeloDesc": "HILUX 4 X 4 - ANO 1997/2004",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 11:01:06",
+      "updated_at": "2/12/2021 14:04:42"
+    },
+    {
+      "id": "1007",
+      "marcaId": "14",
+      "modeloDesc": "HILUX 2.8 4 X 2 CABINE SIMPLES E DUPLA - ANO 1998",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 11:02:41",
+      "updated_at": "2/12/2021 13:52:15"
+    },
+    {
+      "id": "1008",
+      "marcaId": "14",
+      "modeloDesc": "HILUX 4 X 4 - 3.0 - ANO 1998/2004",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 11:03:21",
+      "updated_at": "2/12/2021 14:04:29"
+    },
+    {
+      "id": "1010",
+      "marcaId": "6",
+      "modeloDesc": "TRANSIT FURGÃO ",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 11:15:55",
+      "updated_at": "13/9/2021 11:15:55"
+    },
+    {
+      "id": "1011",
+      "marcaId": "12",
+      "modeloDesc": "SPRINTER RODADO DUPLO (QUATRO PNEUS EIXO TRASEIRO) - ANO 1997...",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 11:18:25",
+      "updated_at": "13/9/2021 11:18:25"
+    },
+    {
+      "id": "1012",
+      "marcaId": "12",
+      "modeloDesc": "SPRINTER KAWA ELETRONIC 310, 311, 312 E 313 - ANO 97/12",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 11:19:39",
+      "updated_at": "13/9/2021 11:19:39"
+    },
+    {
+      "id": "1013",
+      "marcaId": "12",
+      "modeloDesc": "SPRINTER 412, 413 RODADO DUPLO  - ANO 00/12",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 11:20:35",
+      "updated_at": "13/9/2021 11:20:35"
+    },
+    {
+      "id": "1014",
+      "marcaId": "12",
+      "modeloDesc": "SPRINTER 311, 315, 515 CDI RODADO DUPLO - 2012...",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 11:22:56",
+      "updated_at": "13/9/2021 11:22:56"
+    },
+    {
+      "id": "1015",
+      "marcaId": "12",
+      "modeloDesc": "SPRINTER 311, 415 - ANO 2014...",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 11:23:39",
+      "updated_at": "13/9/2021 11:23:39"
+    },
+    {
+      "id": "1016",
+      "marcaId": "5",
+      "modeloDesc": "MICRO ONIBUS IVECO CITY CLASS 6013 ",
+      "veiculoTipoId": "5",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 11:35:50",
+      "updated_at": "13/9/2021 11:35:50"
+    },
+    {
+      "id": "1017",
+      "marcaId": "25",
+      "modeloDesc": "GRAND BESTA - 2000...",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 11:37:40",
+      "updated_at": "13/9/2021 11:37:40"
+    },
+    {
+      "id": "1018",
+      "marcaId": "12",
+      "modeloDesc": "SPRINTER 310-D ORIGINAL - ANO 1997...",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 11:39:06",
+      "updated_at": "13/9/2021 11:39:06"
+    },
+    {
+      "id": "1019",
+      "marcaId": "8",
+      "modeloDesc": "14.170 E 14.190 - ANO 99/01",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 13:04:53",
+      "updated_at": "13/9/2021 13:04:53"
+    },
+    {
+      "id": "1020",
+      "marcaId": "8",
+      "modeloDesc": "12.170, 14.190 E 16.220 - ANO 97/99",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 13:06:35",
+      "updated_at": "13/9/2021 13:06:35"
+    },
+    {
+      "id": "1021",
+      "marcaId": "8",
+      "modeloDesc": "15.190 (SUBSTITUIÇAO) - ANO 1997...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 13:07:12",
+      "updated_at": "13/9/2021 13:07:12"
+    },
+    {
+      "id": "1022",
+      "marcaId": "11",
+      "modeloDesc": "4.700 E 4.900 - ANO 1997",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 13:58:08",
+      "updated_at": "13/9/2021 13:58:08"
+    },
+    {
+      "id": "1023",
+      "marcaId": "11",
+      "modeloDesc": "4.700 E 4.900 ",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 13:58:35",
+      "updated_at": "13/9/2021 13:58:35"
+    },
+    {
+      "id": "1024",
+      "marcaId": "11",
+      "modeloDesc": "9.000, 9.200 E 9.800",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 13:58:55",
+      "updated_at": "13/9/2021 13:58:55"
+    },
+    {
+      "id": "1025",
+      "marcaId": "11",
+      "modeloDesc": "DURASTAR 4400 (6X4) - ANO 2009...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 14:00:29",
+      "updated_at": "13/9/2021 14:00:29"
+    },
+    {
+      "id": "1026",
+      "marcaId": "13",
+      "modeloDesc": "L-LS-LT-110 E 111 (JACARE) LONGO - ANO 76/80",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 14:33:35",
+      "updated_at": "13/9/2021 14:33:35"
+    },
+    {
+      "id": "1027",
+      "marcaId": "13",
+      "modeloDesc": "L-LT-100, 111, LS-110, 111 (JACARE) E L-75 - ANO 76/80",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 14:38:08",
+      "updated_at": "13/9/2021 14:38:08"
+    },
+    {
+      "id": "1028",
+      "marcaId": "13",
+      "modeloDesc": "110 L-75 (CURTO) - ANO 72/84",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 14:39:39",
+      "updated_at": "13/9/2021 14:40:43"
+    },
+    {
+      "id": "1029",
+      "marcaId": "13",
+      "modeloDesc": "T-112, R112M E R-142M - ANO 81/84",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 14:41:54",
+      "updated_at": "13/9/2021 14:41:54"
+    },
+    {
+      "id": "1030",
+      "marcaId": "50",
+      "modeloDesc": "CHANA CHANGAN CARGO",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 14:48:11",
+      "updated_at": "13/9/2021 14:48:11"
+    },
+    {
+      "id": "1031",
+      "marcaId": "13",
+      "modeloDesc": "T-112, T-112H, R-142MA E R-142M - ANO 81/84",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 14:51:08",
+      "updated_at": "13/9/2021 14:51:08"
+    },
+    {
+      "id": "1032",
+      "marcaId": "13",
+      "modeloDesc": "T-112M, 112MA, 112H, 142E, 113, 143, R-112M, 112MA, 112E, 112H, 142MA E 142M - ANO 1980",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 14:56:16",
+      "updated_at": "13/9/2021 14:56:16"
+    },
+    {
+      "id": "1033",
+      "marcaId": "13",
+      "modeloDesc": "R-113, T-113 E, F-K-KS-113, R-114, T-114 E P-114 GA-GB - ANO 1992",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 14:58:35",
+      "updated_at": "13/9/2021 14:58:35"
+    },
+    {
+      "id": "1034",
+      "marcaId": "13",
+      "modeloDesc": "T-P-R-124,T-124,GA 6X4(360),R-124 GA-LB 6X4(420),124 GA-GB-LA 4X2(260/320/360/420) - (SUBST) - 1998",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 15:05:39",
+      "updated_at": "13/9/2021 15:05:39"
+    },
+    {
+      "id": "1035",
+      "marcaId": "13",
+      "modeloDesc": "R-T-P-113, 114 E R-124 - ANO 1992",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 15:07:59",
+      "updated_at": "13/9/2021 15:07:59"
+    },
+    {
+      "id": "1036",
+      "marcaId": "13",
+      "modeloDesc": "110, 140 E 141 - ANO 76/80",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 15:09:18",
+      "updated_at": "13/9/2021 15:09:18"
+    },
+    {
+      "id": "1037",
+      "marcaId": "13",
+      "modeloDesc": "124 G TRUCADO TRAÇADO (SUBSTITUIÇAO) - ",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 15:10:16",
+      "updated_at": "13/9/2021 15:10:16"
+    },
+    {
+      "id": "1038",
+      "marcaId": "13",
+      "modeloDesc": "112-E E 142-E DE 1981 À 1998, 113-E E 143-E (6X4) DE 1991 À 1998 ",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 15:15:45",
+      "updated_at": "13/9/2021 15:15:45"
+    },
+    {
+      "id": "1039",
+      "marcaId": "13",
+      "modeloDesc": "P-R-T 94, 114, 124 G (6X4) 260, 320, 360, 400, 420 E P 124 C (6X4) 360 (8X4) - ",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 15:18:17",
+      "updated_at": "13/9/2021 15:18:17"
+    },
+    {
+      "id": "1040",
+      "marcaId": "13",
+      "modeloDesc": "P-124 4X2 E 6X4 - ANO 1998",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 15:19:41",
+      "updated_at": "13/9/2021 15:19:41"
+    },
+    {
+      "id": "1041",
+      "marcaId": "13",
+      "modeloDesc": "R-124 6X4 360/420 E T-122 6X4 (360) - ANO 1995...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 15:29:37",
+      "updated_at": "13/9/2021 15:29:37"
+    },
+    {
+      "id": "1042",
+      "marcaId": "13",
+      "modeloDesc": "P-94, 114 3º EIXO SUSPENSÃO MISTA - LADO DIREITO - ANO 2010...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 15:30:40",
+      "updated_at": "13/9/2021 15:30:40"
+    },
+    {
+      "id": "1043",
+      "marcaId": "13",
+      "modeloDesc": "P-94, 114 3º EIXO SUSPENSÃO MISTA - LADO ESQUERDO - ANO 2010...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 15:33:26",
+      "updated_at": "13/9/2021 15:33:26"
+    },
+    {
+      "id": "1044",
+      "marcaId": "13",
+      "modeloDesc": "P-250, 270, 320 E 340 - 4X2 - ANO 2010...",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 15:34:37",
+      "updated_at": "13/9/2021 15:34:37"
+    },
+    {
+      "id": "1045",
+      "marcaId": "13",
+      "modeloDesc": "T-112, R-112M E R-142M - ANO 81/84",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 15:36:47",
+      "updated_at": "13/9/2021 15:36:47"
+    },
+    {
+      "id": "1049",
+      "marcaId": "14",
+      "modeloDesc": "TOYOTA BANDEIRANTE - ANO 1982/1993",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 15:47:50",
+      "updated_at": "2/12/2021 15:14:26"
+    },
+    {
+      "id": "1053",
+      "marcaId": "14",
+      "modeloDesc": "TOYOTA BANDEIRANTE - ANO 1994...",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 16:00:32",
+      "updated_at": "2/12/2021 15:12:41"
+    },
+    {
+      "id": "1057",
+      "marcaId": "18",
+      "modeloDesc": "JEEP - ANO 1955",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 16:13:53",
+      "updated_at": "13/9/2021 16:14:12"
+    },
+    {
+      "id": "1058",
+      "marcaId": "18",
+      "modeloDesc": "PICK-UP F-75 E RURAL - ANO 66/78",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 16:15:48",
+      "updated_at": "13/9/2021 16:15:48"
+    },
+    {
+      "id": "1059",
+      "marcaId": "18",
+      "modeloDesc": "RURAL - ANO 57/64",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 16:16:58",
+      "updated_at": "13/9/2021 16:16:58"
+    },
+    {
+      "id": "1060",
+      "marcaId": "18",
+      "modeloDesc": "JEEP - ANO 45/54",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "13/9/2021 16:17:40",
+      "updated_at": "13/9/2021 16:17:40"
+    },
+    {
+      "id": "1062",
+      "marcaId": "1",
+      "modeloDesc": "5000, 7000-D, 7500-TD - ANO 92/95",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "23/9/2021 09:41:27",
+      "updated_at": "23/9/2021 09:41:27"
+    },
+    {
+      "id": "1063",
+      "marcaId": "1",
+      "modeloDesc": "1800 D ESPECIAL",
+      "veiculoTipoId": "2",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "23/9/2021 09:41:50",
+      "updated_at": "4/10/2021 16:49:33"
+    },
+    {
+      "id": "1064",
+      "marcaId": "6",
+      "modeloDesc": "F-250 4 X 4 - ANO 1999...",
+      "veiculoTipoId": "1",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "29/9/2021 15:55:17",
+      "updated_at": "2/12/2021 23:04:18"
+    },
+    {
+      "id": "1065",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 300 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:28:16",
+      "updated_at": "4/10/2021 13:29:47"
+    },
+    {
+      "id": "1066",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 315 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:28:26",
+      "updated_at": "4/10/2021 13:30:40"
+    },
+    {
+      "id": "1067",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 350 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:28:40",
+      "updated_at": "4/10/2021 13:30:44"
+    },
+    {
+      "id": "1068",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 360 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:28:48",
+      "updated_at": "4/10/2021 13:30:48"
+    },
+    {
+      "id": "1069",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 400 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:29:01",
+      "updated_at": "4/10/2021 13:30:54"
+    },
+    {
+      "id": "1070",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 420 KG ",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:31:46",
+      "updated_at": "4/10/2021 13:32:09"
+    },
+    {
+      "id": "1071",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 500 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:33:42",
+      "updated_at": "4/10/2021 13:33:42"
+    },
+    {
+      "id": "1072",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 550 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:34:02",
+      "updated_at": "4/10/2021 13:34:02"
+    },
+    {
+      "id": "1073",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 600 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:34:34",
+      "updated_at": "4/10/2021 13:34:34"
+    },
+    {
+      "id": "1074",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 750 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:35:08",
+      "updated_at": "4/10/2021 13:35:08"
+    },
+    {
+      "id": "1075",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 800 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:35:31",
+      "updated_at": "4/10/2021 13:37:20"
+    },
+    {
+      "id": "1076",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 1000 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:35:56",
+      "updated_at": "4/10/2021 13:35:56"
+    },
+    {
+      "id": "1077",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 1500 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:36:16",
+      "updated_at": "4/10/2021 13:36:16"
+    },
+    {
+      "id": "1078",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 2000 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:36:41",
+      "updated_at": "4/10/2021 13:36:41"
+    },
+    {
+      "id": "1079",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 210 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:40:25",
+      "updated_at": "4/10/2021 13:40:25"
+    },
+    {
+      "id": "1080",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 260 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:40:44",
+      "updated_at": "4/10/2021 13:40:44"
+    },
+    {
+      "id": "1081",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 320 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:44:45",
+      "updated_at": "4/10/2021 13:44:45"
+    },
+    {
+      "id": "1082",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 140 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:45:15",
+      "updated_at": "4/10/2021 13:45:15"
+    },
+    {
+      "id": "1083",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 190 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:45:32",
+      "updated_at": "4/10/2021 13:45:32"
+    },
+    {
+      "id": "1084",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 250 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:45:59",
+      "updated_at": "4/10/2021 13:45:59"
+    },
+    {
+      "id": "1085",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 280 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:46:17",
+      "updated_at": "4/10/2021 13:46:17"
+    },
+    {
+      "id": "1086",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 375 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:46:58",
+      "updated_at": "4/10/2021 13:46:58"
+    },
+    {
+      "id": "1087",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 430 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:47:12",
+      "updated_at": "4/10/2021 13:47:12"
+    },
+    {
+      "id": "1088",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 530 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:52:28",
+      "updated_at": "4/10/2021 13:52:28"
+    },
+    {
+      "id": "1089",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 620 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:52:59",
+      "updated_at": "4/10/2021 13:52:59"
+    },
+    {
+      "id": "1090",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 640 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:53:19",
+      "updated_at": "4/10/2021 13:53:19"
+    },
+    {
+      "id": "1091",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 670 KG ",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:53:42",
+      "updated_at": "4/10/2021 13:53:42"
+    },
+    {
+      "id": "1092",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 1080 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:55:12",
+      "updated_at": "4/10/2021 13:55:12"
+    },
+    {
+      "id": "1093",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 1250 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:55:31",
+      "updated_at": "4/10/2021 13:55:31"
+    },
+    {
+      "id": "1095",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 150 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:56:19",
+      "updated_at": "4/10/2021 13:56:19"
+    },
+    {
+      "id": "1096",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 325 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:56:42",
+      "updated_at": "4/10/2021 13:56:42"
+    },
+    {
+      "id": "1097",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 370 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:57:07",
+      "updated_at": "4/10/2021 13:57:07"
+    },
+    {
+      "id": "1098",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 450 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:57:25",
+      "updated_at": "4/10/2021 13:57:25"
+    },
+    {
+      "id": "1099",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 480 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:57:38",
+      "updated_at": "4/10/2021 13:57:38"
+    },
+    {
+      "id": "1100",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 625 KG ",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:58:01",
+      "updated_at": "4/10/2021 13:58:01"
+    },
+    {
+      "id": "1101",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 680 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:58:23",
+      "updated_at": "4/10/2021 13:58:23"
+    },
+    {
+      "id": "1102",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 700 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:58:44",
+      "updated_at": "4/10/2021 13:58:44"
+    },
+    {
+      "id": "1103",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 1050 KG ",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:59:08",
+      "updated_at": "4/10/2021 13:59:08"
+    },
+    {
+      "id": "1104",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 1100 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:59:23",
+      "updated_at": "4/10/2021 13:59:23"
+    },
+    {
+      "id": "1105",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 1200 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:59:43",
+      "updated_at": "4/10/2021 13:59:43"
+    },
+    {
+      "id": "1106",
+      "marcaId": "3",
+      "modeloDesc": "CAP. CARGA 1400 KG",
+      "veiculoTipoId": "6",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "4/10/2021 13:59:58",
+      "updated_at": "4/10/2021 13:59:58"
+    },
+    {
+      "id": "1107",
+      "marcaId": "9",
+      "modeloDesc": "HASTE AGRICOLA REFORÇADA",
+      "veiculoTipoId": "8",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "10/11/2021 10:43:31",
+      "updated_at": "10/11/2021 10:43:31"
+    },
+    {
+      "id": "1108",
+      "marcaId": "9",
+      "modeloDesc": "BICAO AGRICOLA PESADO",
+      "veiculoTipoId": "8",
+      "anoI": "0",
+      "anoF": "0",
+      "created_at": "10/11/2021 10:44:11",
+      "updated_at": "10/11/2021 10:44:11"
+    }
+  ]
+}
